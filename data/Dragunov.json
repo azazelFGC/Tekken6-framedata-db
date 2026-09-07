@@ -6,7 +6,7 @@
       "data": [
         {
           "input": "1",
-          "range": "",
+          "range": "h",
           "DMG": "8",
           "speed": "10",
           "block": "+1",
