@@ -655,7 +655,7 @@
             "range": "h,m",
             "DMG": "36,24",
             "speed": "",
-            "block": "+15",
+            "block": "-15",
             "hit": "KD",
             "ch": "KD"
             },
