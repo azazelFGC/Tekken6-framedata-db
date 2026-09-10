@@ -1,0 +1,1321 @@
+{
+	"name": "Alisa",
+	"frames": [
+		{
+			"action": "Standing",
+			"data": [
+				{
+					"input": "1",
+					"range": "",
+					"DMG": "9",
+					"speed": "10",
+					"block": "+1",
+					"hit": "+8",
+					"ch": "+8"
+				},
+				{
+					"input": "1, 1",
+					"range": "",
+					"DMG": "9,21",
+					"speed": "",
+					"block": "-3",
+					"hit": "+9",
+					"ch": "+9"
+				},
+				{
+					"input": "1, 2",
+					"range": "",
+					"DMG": "9,12",
+					"speed": "",
+					"block": "-2",
+					"hit": "+3",
+					"ch": "+3"
+				},
+				{
+					"input": "1, 2, 2",
+					"range": "",
+					"DMG": "9,12,20",
+					"speed": "",
+					"block": "-11",
+					"hit": "+2",
+					"ch": "+2"
+				},
+				{
+					"input": "2",
+					"range": "",
+					"DMG": "12",
+					"speed": "12",
+					"block": "-6",
+					"hit": "+5",
+					"ch": "+5"
+				},
+				{
+					"input": "2, 3",
+					"range": "",
+					"DMG": "12,8",
+					"speed": "",
+					"block": "-10",
+					"hit": "+2",
+					"ch": "+2"
+				},
+				{
+					"input": "2, 3, 3",
+					"range": "",
+					"DMG": "12,8,24",
+					"speed": "",
+					"block": "-11",
+					"hit": "KD",
+					"ch": "KD"
+				},
+				{
+					"input": "2, 3, 4",
+					"range": "",
+					"DMG": "12,8,24",
+					"speed": "",
+					"block": "-19",
+					"hit": "KD",
+					"ch": "KD"
+				},
+				{
+					"input": "3",
+					"range": "",
+					"DMG": "18",
+					"speed": "14",
+					"block": "-12",
+					"hit": "-1",
+					"ch": "-1"
+				},
+				{
+					"input": "3, 2",
+					"range": "",
+					"DMG": "18,6 x 5",
+					"speed": "",
+					"block": "-9",
+					"hit": "0",
+					"ch": "0"
+				},
+				{
+					"input": "4",
+					"range": "",
+					"DMG": "28",
+					"speed": "13",
+					"block": "-5",
+					"hit": "KD",
+					"ch": "KD"
+				},
+				{
+					"input": "1+2",
+					"range": "",
+					"DMG": "25",
+					"speed": "33",
+					"block": "-9",
+					"hit": "KD",
+					"ch": "KD"
+				},
+				{
+					"input": "f+2",
+					"range": "",
+					"DMG": "14",
+					"speed": "17",
+					"block": "-6",
+					"hit": "+5",
+					"ch": "+5"
+				},
+				{
+					"input": "f+2, 3",
+					"range": "",
+					"DMG": "14,9",
+					"speed": "",
+					"block": "-8",
+					"hit": "+4",
+					"ch": "+4"
+				},
+				{
+					"input": "f+2, 3, f",
+					"range": "",
+					"DMG": "14,9",
+					"speed": "",
+					"block": "-10 ?",
+					"hit": "+",
+					"ch": "+"
+				},
+				{
+					"input": "f+2, 3, 3",
+					"range": "",
+					"DMG": "14,9,24",
+					"speed": "",
+					"block": "-10",
+					"hit": "KD",
+					"ch": "KD"
+				},
+				{
+					"input": "f+3",
+					"range": "",
+					"DMG": "20",
+					"speed": "14",
+					"block": "-14",
+					"hit": "-3",
+					"ch": "-3"
+				},
+				{
+					"input": "f+3, 2",
+					"range": "",
+					"DMG": "20,6,6",
+					"speed": "",
+					"block": "-2",
+					"hit": "-11",
+					"ch": "+11"
+				},
+				{
+					"input": "f+3, 2, 1",
+					"range": "",
+					"DMG": "20,6,6,6,6,6",
+					"speed": "",
+					"block": "-9 CR",
+					"hit": "KD",
+					"ch": "KD"
+				},
+				{
+					"input": "f+4",
+					"range": "",
+					"DMG": "24",
+					"speed": "13",
+					"block": "-6",
+					"hit": "KD",
+					"ch": "KD"
+				},
+				{
+					"input": "f+4, 4",
+					"range": "",
+					"DMG": "24,30",
+					"speed": "",
+					"block": "-1",
+					"hit": "KD",
+					"ch": "KD"
+				},
+				{
+					"input": "f+1+2",
+					"range": "",
+					"DMG": "26",
+					"speed": "14 ~ 16",
+					"block": "-12 ~ -10",
+					"hit": "+7 ~ +9",
+					"ch": "+7 ~ +9"
+				},
+				{
+					"input": "df+1",
+					"range": "",
+					"DMG": "12",
+					"speed": "13 ~ 14",
+					"block": "-6 ~ -5",
+					"hit": "+5 ~ +6",
+					"ch": "+5 ~ +6"
+				},
+				{
+					"input": "df+1, 1",
+					"range": "",
+					"DMG": "12,20",
+					"speed": "",
+					"block": "-1",
+					"hit": "+8",
+					"ch": "+8"
+				},
+				{
+					"input": "df+1, 1, 2",
+					"range": "",
+					"DMG": "12,20,4 x 7",
+					"speed": "",
+					"block": "+6",
+					"hit": "+8",
+					"ch": "+8"
+				},
+				{
+					"input": "df+1, 4",
+					"range": "",
+					"DMG": "12,19",
+					"speed": "",
+					"block": "-9",
+					"hit": "+5 CR",
+					"ch": "+5 CR"
+				},
+				{
+					"input": "df+2",
+					"range": "",
+					"DMG": "19",
+					"speed": "16",
+					"block": "-9",
+					"hit": "KD +7",
+					"ch": "KD"
+				},
+				{
+					"input": "df+3",
+					"range": "",
+					"DMG": "18",
+					"speed": "16",
+					"block": "-12",
+					"hit": "-2",
+					"ch": "-2"
+				},
+				{
+					"input": "df+3, 3",
+					"range": "",
+					"DMG": "18,19",
+					"speed": "",
+					"block": "-12",
+					"hit": "+1",
+					"ch": "+1"
+				},
+				{
+					"input": "d+2",
+					"range": "",
+					"DMG": "20",
+					"speed": "24",
+					"block": "-14",
+					"hit": "+2 CR",
+					"ch": "+2 CR"
+				},
+				{
+					"input": "d+2, 4",
+					"range": "",
+					"DMG": "20,28",
+					"speed": "",
+					"block": "-13",
+					"hit": "KD",
+					"ch": "KD"
+				},
+				{
+					"input": "d+3",
+					"range": "",
+					"DMG": "15",
+					"speed": "17",
+					"block": "-12",
+					"hit": "-1",
+					"ch": "-1"
+				},
+				{
+					"input": "d+3, 3",
+					"range": "",
+					"DMG": "15,6",
+					"speed": "",
+					"block": "-12",
+					"hit": "-1",
+					"ch": "-1"
+				},
+				{
+					"input": "d+3, 3, 3",
+					"range": "",
+					"DMG": "15,6,16",
+					"speed": "",
+					"block": "-20",
+					"hit": "KD",
+					"ch": "KD"
+				},
+				{
+					"input": "d+4",
+					"range": "",
+					"DMG": "18",
+					"speed": "17",
+					"block": "-16",
+					"hit": "-5",
+					"ch": "-5"
+				},
+				{
+					"input": "d+4, 1+2",
+					"range": "",
+					"DMG": "18,24",
+					"speed": "",
+					"block": "-1",
+					"hit": "KD",
+					"ch": "KD"
+				},
+				{
+					"input": "d+3+4",
+					"range": "",
+					"DMG": "24",
+					"speed": "27",
+					"block": "-18 ~ -17",
+					"hit": "KD",
+					"ch": "KD"
+				},
+				{
+					"input": "d+3+4, 1+2",
+					"range": "",
+					"DMG": "24",
+					"speed": "",
+					"block": "-18 ~ -17",
+					"hit": "KD",
+					"ch": "KD"
+				},
+				{
+					"input": "db+1, 1",
+					"range": "",
+					"DMG": "37",
+					"speed": "26",
+					"block": "-4",
+					"hit": "KD",
+					"ch": "KD"
+				},
+				{
+					"input": "db+1, 1+",
+					"range": "",
+					"DMG": "30,(3)",
+					"speed": "",
+					"block": "KD",
+					"hit": "KD",
+					"ch": "KD"
+				},
+				{
+					"input": "db+2",
+					"range": "",
+					"DMG": "20",
+					"speed": "18",
+					"block": "-18",
+					"hit": "-4",
+					"ch": "-4"
+				},
+				{
+					"input": "db+2, 2",
+					"range": "",
+					"DMG": "20,15",
+					"speed": "",
+					"block": "-10",
+					"hit": "+14",
+					"ch": "+14"
+				},
+				{
+					"input": "db+2, 2, 1+2",
+					"range": "",
+					"DMG": "20,15",
+					"speed": "",
+					"block": "-10",
+					"hit": "+14",
+					"ch": "+14"
+				},
+				{
+					"input": "db+3",
+					"range": "",
+					"DMG": "16",
+					"speed": "16 CR",
+					"block": "-11",
+					"hit": "0",
+					"ch": "+7"
+				},
+				{
+					"input": "db+4",
+					"range": "",
+					"DMG": "26",
+					"speed": "24",
+					"block": "-18 ~ -17",
+					"hit": "KD",
+					"ch": "KD"
+				},
+				{
+					"input": "b+1",
+					"range": "",
+					"DMG": "21",
+					"speed": "15 CR",
+					"block": "-5",
+					"hit": "+8",
+					"ch": "+8"
+				},
+				{
+					"input": "b+1, 1+2",
+					"range": "",
+					"DMG": "21,11,36",
+					"speed": "",
+					"block": "-16",
+					"hit": "KD",
+					"ch": "KD"
+				},
+				{
+					"input": "b+2",
+					"range": "",
+					"DMG": "14",
+					"speed": "18",
+					"block": "-12",
+					"hit": "-2",
+					"ch": "-2"
+				},
+				{
+					"input": "b+2, 1",
+					"range": "",
+					"DMG": "14,15",
+					"speed": "",
+					"block": "-13",
+					"hit": "0 CR",
+					"ch": "0 CR"
+				},
+				{
+					"input": "b+2, 4",
+					"range": "",
+					"DMG": "14,24",
+					"speed": "",
+					"block": "-9",
+					"hit": "KD",
+					"ch": "KD"
+				},
+				{
+					"input": "b+3",
+					"range": "",
+					"DMG": "31",
+					"speed": "20",
+					"block": "-12",
+					"hit": "KD",
+					"ch": "KD"
+				},
+				{
+					"input": "b+4",
+					"range": "",
+					"DMG": "19",
+					"speed": "15",
+					"block": "-16",
+					"hit": "-5",
+					"ch": "0"
+				},
+				{
+					"input": "b+4, 3",
+					"range": "",
+					"DMG": "19,18",
+					"speed": "",
+					"block": "-6 CR",
+					"hit": "KD",
+					"ch": "KD"
+				},
+				{
+					"input": "b+4, 3, 1+2",
+					"range": "",
+					"DMG": "19,18",
+					"speed": "",
+					"block": "-6 CR",
+					"hit": "KD",
+					"ch": "KD"
+				},
+				{
+					"input": "b+3+4",
+					"range": "",
+					"DMG": "24",
+					"speed": "19",
+					"block": "-17",
+					"hit": "KD",
+					"ch": "KD"
+				},
+				{
+					"input": "b+3+4, 3+4",
+					"range": "",
+					"DMG": "24,36",
+					"speed": "",
+					"block": "-2 CR",
+					"hit": "KD",
+					"ch": "KD"
+				},
+				{
+					"input": "b+2+3",
+					"range": "",
+					"DMG": "60",
+					"speed": "70?",
+					"block": "KD",
+					"hit": "KD",
+					"ch": "KD"
+				},
+				{
+					"input": "ub+3+4",
+					"range": "",
+					"DMG": "30",
+					"speed": "38",
+					"block": "+1 CR",
+					"hit": "KD",
+					"ch": "KD"
+				},
+				{
+					"input": "BT 3+4",
+					"range": "",
+					"DMG": "30",
+					"speed": "38",
+					"block": "+1 CR",
+					"hit": "KD",
+					"ch": "KD"
+				},
+				{
+					"input": "ub+3+4, 1+2 _ BT 3+4, 1+2",
+					"range": "",
+					"DMG": "30,24",
+					"speed": "",
+					"block": "-20",
+					"hit": "KD",
+					"ch": "KD"
+				},
+				{
+					"input": "ub_u_uf+3",
+					"range": "",
+					"DMG": "18",
+					"speed": "20",
+					"block": "-55",
+					"hit": "-28",
+					"ch": "-28"
+				},
+				{
+					"input": "uf+3, 2",
+					"range": "",
+					"DMG": "18,36",
+					"speed": "",
+					"block": "-14 ~ -12",
+					"hit": "KD",
+					"ch": "KD"
+				},
+				{
+					"input": "uf+3, 3+4",
+					"range": "",
+					"DMG": "18",
+					"speed": "",
+					"block": "-",
+					"hit": "-",
+					"ch": "-"
+				},
+				{
+					"input": "uf+3, f+3+4",
+					"range": "",
+					"DMG": "18",
+					"speed": "",
+					"block": "-",
+					"hit": "-",
+					"ch": "-"
+				},
+				{
+					"input": "u_f+4",
+					"range": "",
+					"DMG": "12",
+					"speed": "15 ~ 16",
+					"block": "-15 ~ -14",
+					"hit": "KD",
+					"ch": "KD"
+				},
+				{
+					"input": "uf+4, 4",
+					"range": "",
+					"DMG": "12,25",
+					"speed": "",
+					"block": "-12 ~ -11 CR",
+					"hit": "KD",
+					"ch": "KD"
+				},
+				{
+					"input": "u_uf+3+4",
+					"range": "",
+					"DMG": "33",
+					"speed": "33?",
+					"block": "-9",
+					"hit": "KD",
+					"ch": "KD"
+				},
+				{
+					"input": "ff+2",
+					"range": "",
+					"DMG": "21",
+					"speed": "17",
+					"block": "-18 ~ -17",
+					"hit": "KD",
+					"ch": "KD"
+				},
+				{
+					"input": "ff+2, 3",
+					"range": "",
+					"DMG": "21,30",
+					"speed": "",
+					"block": "-13",
+					"hit": "KD",
+					"ch": "KD"
+				},
+				{
+					"input": "ff+3",
+					"range": "",
+					"DMG": "14",
+					"speed": "19",
+					"block": "-17",
+					"hit": "-6",
+					"ch": "-6"
+				},
+				{
+					"input": "ff+3, 4",
+					"range": "",
+					"DMG": "14,18",
+					"speed": "",
+					"block": "-9",
+					"hit": "KD",
+					"ch": "KD"
+				},
+				{
+					"input": "ff+3, 4, 1+2",
+					"range": "",
+					"DMG": "14,18",
+					"speed": "",
+					"block": "-9",
+					"hit": "KD",
+					"ch": "KD"
+				},
+				{
+					"input": "ff+3, 4, 4",
+					"range": "",
+					"DMG": "14,18,20",
+					"speed": "",
+					"block": "-10",
+					"hit": "KD",
+					"ch": "KD"
+				},
+				{
+					"input": "ff+3, 4, 1+2",
+					"range": "",
+					"DMG": "14,18,30",
+					"speed": "",
+					"block": "-10",
+					"hit": "KD",
+					"ch": "KD"
+				},
+				{
+					"input": "ff+4",
+					"range": "",
+					"DMG": "21",
+					"speed": "20",
+					"block": "-11 ~ -9",
+					"hit": "+5 B",
+					"ch": "+5 B"
+				},
+				{
+					"input": "ff+4 when it hits qcf+1_qcb+1",
+					"range": "",
+					"DMG": "21,26",
+					"speed": "20",
+					"block": "",
+					"hit": "",
+					"ch": ""
+				},
+				{
+					"input": "ff+1+2",
+					"range": "",
+					"DMG": "6,21",
+					"speed": "18",
+					"block": "-16",
+					"hit": "KD",
+					"ch": "KD"
+				},
+				{
+					"input": "ff+1+2 when it hits 2",
+					"range": "",
+					"DMG": "6,21,2 x 6",
+					"speed": "",
+					"block": "",
+					"hit": "KD",
+					"ch": "KD"
+				},
+				{
+					"input": "bb+1+2",
+					"range": "",
+					"DMG": "60",
+					"speed": "",
+					"block": "KD",
+					"hit": "KD",
+					"ch": "KD"
+				},
+				{
+					"input": "bf+2",
+					"range": "",
+					"DMG": "31",
+					"speed": "16",
+					"block": "-8 ~ 0",
+					"hit": "KD",
+					"ch": "KD"
+				},
+				{
+					"input": "fff+2 _ WR 2",
+					"range": "",
+					"DMG": "33",
+					"speed": "16",
+					"block": "+4",
+					"hit": "KD",
+					"ch": "KD"
+				},
+				{
+					"input": "fff+3 _ WR 3",
+					"range": "",
+					"DMG": "12",
+					"speed": "21",
+					"block": "-12",
+					"hit": "+3",
+					"ch": "+3"
+				},
+				{
+					"input": "fff+3, 4",
+					"range": "",
+					"DMG": "12,30",
+					"speed": "",
+					"block": "-7",
+					"hit": "KD",
+					"ch": "KD"
+				},
+				{
+					"input": "WR 1+2",
+					"range": "",
+					"DMG": "36",
+					"speed": "",
+					"block": "-3",
+					"hit": "KD",
+					"ch": "KD"
+				},
+				{
+					"input": "WS 1",
+					"range": "",
+					"DMG": "14",
+					"speed": "14",
+					"block": "-12",
+					"hit": "-1",
+					"ch": "-1"
+				},
+				{
+					"input": "WS 1, 2",
+					"range": "",
+					"DMG": "14,10",
+					"speed": "",
+					"block": "-5",
+					"hit": "+6",
+					"ch": "+6"
+				},
+				{
+					"input": "WS 1, 2, 3",
+					"range": "",
+					"DMG": "14,10,24",
+					"speed": "",
+					"block": "-10",
+					"hit": "KD",
+					"ch": "KD"
+				},
+				{
+					"input": "WS 1, 2, 3, 1+2",
+					"range": "",
+					"DMG": "14,10,24",
+					"speed": "",
+					"block": "-10",
+					"hit": "KD",
+					"ch": "KD"
+				},
+				{
+					"input": "WS 2",
+					"range": "",
+					"DMG": "28",
+					"speed": "17",
+					"block": "-13",
+					"hit": "KD",
+					"ch": "KD"
+				},
+				{
+					"input": "WS 2, 3+4",
+					"range": "",
+					"DMG": "28",
+					"speed": "",
+					"block": "",
+					"hit": "KD",
+					"ch": "KD"
+				},
+				{
+					"input": "WS 2, f+3+4",
+					"range": "",
+					"DMG": "28",
+					"speed": "",
+					"block": "",
+					"hit": "KD",
+					"ch": "KD"
+				},
+				{
+					"input": "WS 3",
+					"range": "",
+					"DMG": "21",
+					"speed": "19",
+					"block": "-14 ?",
+					"hit": "+",
+					"ch": "+"
+				},
+				{
+					"input": "WS 3, b",
+					"range": "",
+					"DMG": "",
+					"speed": "19",
+					"block": "-14",
+					"hit": "+",
+					"ch": "+"
+				},
+				{
+					"input": "CW in 3",
+					"range": "",
+					"DMG": "24",
+					"speed": "",
+					"block": "-10",
+					"hit": "+1?",
+					"ch": "+1?"
+				},
+				{
+					"input": "CW in 3",
+					"range": "",
+					"DMG": "26",
+					"speed": "",
+					"block": "-8?",
+					"hit": "KD",
+					"ch": "KD"
+				},
+				{
+					"input": "CW in d+3",
+					"range": "",
+					"DMG": "19",
+					"speed": "CR",
+					"block": "-11",
+					"hit": "KD",
+					"ch": "KD"
+				},
+				{
+					"input": "WS 1+2",
+					"range": "",
+					"DMG": "24",
+					"speed": "20 CR",
+					"block": "-7",
+					"hit": "KD",
+					"ch": "KD"
+				},
+				{
+					"input": "WS 1+2, h",
+					"range": "",
+					"DMG": "28",
+					"speed": "CR",
+					"block": "-4",
+					"hit": "KD",
+					"ch": "KD"
+				},
+				{
+					"input": "WS 1+2, h",
+					"range": "",
+					"DMG": "33",
+					"speed": "CR",
+					"block": "0",
+					"hit": "KD",
+					"ch": "KD"
+				},
+				{
+					"input": "FC df+1+2",
+					"range": "",
+					"DMG": "12,19",
+					"speed": "23",
+					"block": "-11",
+					"hit": "+5 CR",
+					"ch": "+5 CR"
+				},
+				{
+					"input": "crouching in df+1+2, 1+2",
+					"range": "",
+					"DMG": "12,19",
+					"speed": "23",
+					"block": "-11",
+					"hit": "+5 CR",
+					"ch": "+5 CR"
+				},
+				{
+					"input": "SS 4",
+					"range": "",
+					"DMG": "18",
+					"speed": "26",
+					"block": "-12",
+					"hit": "-1",
+					"ch": "+7"
+				},
+				{
+					"input": "SS 4, 1+2",
+					"range": "",
+					"DMG": "18,6 x 4",
+					"speed": "",
+					"block": "-10",
+					"hit": "+1",
+					"ch": "+1"
+				},
+				{
+					"input": "BT 4",
+					"range": "",
+					"DMG": "24",
+					"speed": "16 BT",
+					"block": "-3",
+					"hit": "KD",
+					"ch": "KD"
+				},
+				{
+					"input": "while down on his back 1+2",
+					"range": "",
+					"DMG": "",
+					"speed": "",
+					"block": "",
+					"hit": "",
+					"ch": ""
+				},
+				{
+					"input": "while down on his back 1+2, 3+4",
+					"range": "",
+					"DMG": "42",
+					"speed": "35 ?",
+					"block": "-10",
+					"hit": "KD",
+					"ch": "KD"
+				},
+				{
+					"input": "1+2+3",
+					"range": "",
+					"DMG": "",
+					"speed": "",
+					"block": "",
+					"hit": "",
+					"ch": ""
+				},
+				{
+					"input": "1+2+4",
+					"range": "",
+					"DMG": "",
+					"speed": "",
+					"block": "",
+					"hit": "",
+					"ch": ""
+				}
+			]
+		},
+		{
+			"action": "Single Boot",
+			"data": [
+				{
+					"input": "f+3+4",
+					"range": "",
+					"DMG": "",
+					"speed": "",
+					"block": "",
+					"hit": "",
+					"ch": ""
+				},
+				{
+					"input": "f+3+4, b",
+					"range": "",
+					"DMG": "",
+					"speed": "",
+					"block": "",
+					"hit": "",
+					"ch": ""
+				},
+				{
+					"input": "1",
+					"range": "",
+					"DMG": "14",
+					"speed": "",
+					"block": "-15",
+					"hit": "0",
+					"ch": "0"
+				},
+				{
+					"input": "1, 2",
+					"range": "",
+					"DMG": "14,15",
+					"speed": "",
+					"block": "-9",
+					"hit": "-4",
+					"ch": "-4"
+				},
+				{
+					"input": "1, 2, 1",
+					"range": "",
+					"DMG": "14,15,8",
+					"speed": "",
+					"block": "-20",
+					"hit": "-12",
+					"ch": "-12"
+				},
+				{
+					"input": "1, 2, 1, 3+4",
+					"range": "",
+					"DMG": "14,15,8,6,26",
+					"speed": "",
+					"block": "-18",
+					"hit": "KD",
+					"ch": "KD"
+				},
+				{
+					"input": "1, 2, 1, 3+4, 1+2",
+					"range": "",
+					"DMG": "14,15,8,6,26",
+					"speed": "",
+					"block": "-18",
+					"hit": "KD",
+					"ch": "KD"
+				},
+				{
+					"input": "2",
+					"range": "",
+					"DMG": "42",
+					"speed": "41",
+					"block": "+4 F ~ +17 FNG",
+					"hit": "KD",
+					"ch": "KD"
+				},
+				{
+					"input": "3",
+					"range": "",
+					"DMG": "20",
+					"speed": "",
+					"block": "-15 ~ -14",
+					"hit": "+3 ~ +4 CR",
+					"ch": "KD"
+				},
+				{
+					"input": "4",
+					"range": "",
+					"DMG": "26,(5)",
+					"speed": "",
+					"block": "-26",
+					"hit": "KD",
+					"ch": "KD"
+				}
+			]
+		},
+		{
+			"action": "Destroy Form",
+			"data": [
+				{
+					"input": "d+1+2",
+					"range": "",
+					"DMG": "",
+					"speed": "",
+					"block": "",
+					"hit": "",
+					"ch": ""
+				},
+				{
+					"input": "b, f",
+					"range": "",
+					"DMG": "",
+					"speed": "",
+					"block": "",
+					"hit": "",
+					"ch": ""
+				},
+				{
+					"input": "d+1+2, db",
+					"range": "",
+					"DMG": "",
+					"speed": "",
+					"block": "",
+					"hit": "",
+					"ch": ""
+				},
+				{
+					"input": "b+3+4, bb _ ub,b",
+					"range": "",
+					"DMG": "",
+					"speed": "",
+					"block": "",
+					"hit": "",
+					"ch": ""
+				},
+				{
+					"input": "3,4",
+					"range": "",
+					"DMG": "",
+					"speed": "",
+					"block": "",
+					"hit": "",
+					"ch": ""
+				},
+				{
+					"input": "u, d+3+4",
+					"range": "",
+					"DMG": "",
+					"speed": "",
+					"block": "",
+					"hit": "",
+					"ch": ""
+				},
+				{
+					"input": "1",
+					"range": "",
+					"DMG": "3 x 5,24",
+					"speed": "14",
+					"block": "-9",
+					"hit": "KD",
+					"ch": "KD"
+				},
+				{
+					"input": "2",
+					"range": "",
+					"DMG": "4 x 7",
+					"speed": "21?",
+					"block": "-2",
+					"hit": "KD",
+					"ch": "KD"
+				},
+				{
+					"input": "1+2",
+					"range": "",
+					"DMG": "8,8,24",
+					"speed": "16",
+					"block": "0",
+					"hit": "KD",
+					"ch": "KD"
+				},
+				{
+					"input": "f+1",
+					"range": "",
+					"DMG": "3 x 7",
+					"speed": "12",
+					"block": "0",
+					"hit": "+11",
+					"ch": "+11"
+				},
+				{
+					"input": "f+2",
+					"range": "",
+					"DMG": "3,3,2,2",
+					"speed": "10",
+					"block": "",
+					"hit": "KD",
+					"ch": "KD"
+				},
+				{
+					"input": "f+1+2",
+					"range": "",
+					"DMG": "3 x 7,15",
+					"speed": "24?",
+					"block": "+3",
+					"hit": "KD",
+					"ch": "KD"
+				},
+				{
+					"input": "f+1+2, 1+2",
+					"range": "",
+					"DMG": "3 x 5,24(3)",
+					"speed": "BT",
+					"block": "-17",
+					"hit": "KD",
+					"ch": "KD"
+				},
+				{
+					"input": "d+1",
+					"range": "",
+					"DMG": "6 x 5",
+					"speed": "21",
+					"block": "-12",
+					"hit": "+1",
+					"ch": "+1"
+				},
+				{
+					"input": "d+2",
+					"range": "",
+					"DMG": "6 x 4",
+					"speed": "33",
+					"block": "-12",
+					"hit": "-1",
+					"ch": "-1"
+				},
+				{
+					"input": "d+2, h",
+					"range": "",
+					"DMG": "6 x 5or6",
+					"speed": "",
+					"block": "-12",
+					"hit": "-1",
+					"ch": "-1"
+				},
+				{
+					"input": "uf+1+2",
+					"range": "",
+					"DMG": "14 x 3",
+					"speed": "29",
+					"block": "-12 CR",
+					"hit": "KD",
+					"ch": "KD"
+				},
+				{
+					"input": "uf+1+2, 1+2",
+					"range": "",
+					"DMG": "14 x 3",
+					"speed": "29",
+					"block": "-117 CR",
+					"hit": "KD",
+					"ch": "KD"
+				},
+				{
+					"input": "f_1 2",
+					"range": "",
+					"DMG": "4 x 6",
+					"speed": "19",
+					"block": "-16",
+					"hit": "KD",
+					"ch": "KD"
+				}
+			]
+		},
+		{
+			"action": "Dual Boot",
+			"data": [
+				{
+					"input": "f+3+4_ff",
+					"range": "",
+					"DMG": "",
+					"speed": "",
+					"block": "",
+					"hit": "",
+					"ch": ""
+				},
+				{
+					"input": "DB b in",
+					"range": "",
+					"DMG": "",
+					"speed": "",
+					"block": "",
+					"hit": "",
+					"ch": ""
+				},
+				{
+					"input": "f+3+4, u_d",
+					"range": "",
+					"DMG": "",
+					"speed": "",
+					"block": "",
+					"hit": "",
+					"ch": ""
+				},
+				{
+					"input": "1",
+					"range": "",
+					"DMG": "6 x 6",
+					"speed": "24",
+					"block": "+9",
+					"hit": "+10",
+					"ch": "+10"
+				},
+				{
+					"input": "2",
+					"range": "",
+					"DMG": "12,10,10,20,21",
+					"speed": "16",
+					"block": "-14",
+					"hit": "TKKD",
+					"ch": "TKKD"
+				},
+				{
+					"input": "2, 1+2",
+					"range": "",
+					"DMG": "12,10,10,20,21",
+					"speed": "16",
+					"block": "-13?",
+					"hit": "TKKD",
+					"ch": "TKKD"
+				},
+				{
+					"input": "1+2",
+					"range": "",
+					"DMG": "6 x 3,24",
+					"speed": "12",
+					"block": "-5",
+					"hit": "KD",
+					"ch": "KD"
+				}
+			]
+		}
+	]
+        }

@@ -1,0 +1,1718 @@
+{"name":"Steve","frames":[
+{"action":"Standing",
+"data":[
+{
+"input":"1",
+"range":"h",
+"DMG":"8",
+"speed":"10",
+"block":"+1",
+"hit":"+8",
+"ch":"+8"
+},
+{
+"input":"1, 1",
+"range":"h,h",
+"DMG":"8,6",
+"speed":"",
+"block":"-1",
+"hit":"+5",
+"ch":"+5"
+},
+{
+"input":"1, 1",
+"range":"h,h",
+"DMG":"8,6",
+"speed":"",
+"block":"-2?",
+"hit":"-2",
+"ch":"-2"
+},
+{
+"input":"1, 1, 2",
+"range":"h,h,h",
+"DMG":"8,6,16",
+"speed":"",
+"block":"-8",
+"hit":"+3",
+"ch":"+3"
+},
+{
+"input":"1, 1, 2, ",
+"range":"h,h,h",
+"DMG":"8,6,16",
+"speed":"",
+"block":"-5",
+"hit":"+6",
+"ch":"+6"
+},
+{
+"input":"1,1, d1",
+"range":"h,h,m",
+"DMG":"8,6,18",
+"speed":"",
+"block":"-6",
+"hit":"0",
+"ch":"+5"
+},
+{
+"input":"1,1, d1, b",
+"range":"h,h,m",
+"DMG":"8,6,18",
+"speed":"",
+"block":"+3",
+"hit":"+9",
+"ch":"+14"
+},
+{
+"input":"1,1, d1~b,db",
+"range":"h,h,m",
+"DMG":"8,6,18",
+"speed":"CR",
+"block":"-3",
+"hit":"+3",
+"ch":"+8"
+},
+{
+"input":"1, 2",
+"range":"h,h",
+"DMG":"8,12",
+"speed":"",
+"block":"-2",
+"hit":"+5",
+"ch":"+5"
+},
+{
+"input":"1, 2, ",
+"range":"h,h",
+"DMG":"8,12",
+"speed":"",
+"block":"0?",
+"hit":"+7?",
+"ch":"+7?"
+},
+{
+"input":"1, d1",
+"range":"h,m",
+"DMG":"8,18",
+"speed":"",
+"block":"-6",
+"hit":"0",
+"ch":"+5"
+},
+{
+"input":"1, d1, b",
+"range":"h,m",
+"DMG":"8,18",
+"speed":"",
+"block":"+3",
+"hit":"+9",
+"ch":"+14"
+},
+{
+"input":"1, d1~b,db",
+"range":"h,m",
+"DMG":"8,18",
+"speed":"CR",
+"block":"-3",
+"hit":"+3",
+"ch":"+8"
+},
+{
+"input":"1, 2, 1",
+"range":"h,h,h",
+"DMG":"8,12, 12",
+"speed":"",
+"block":"-3",
+"hit":"+3",
+"ch":"+3"
+},
+{
+"input":"2, 1, f",
+"range":"",
+"DMG":"8,12, 12",
+"speed":"",
+"block":"-",
+"hit":"-",
+"ch":"-"
+},
+{
+"input":"2, 1, b",
+"range":"",
+"DMG":"8,12, 12",
+"speed":"",
+"block":"-3",
+"hit":"-2",
+"ch":"-2"
+},
+{
+"input":"2, 1~b,db",
+"range":"",
+"DMG":"8,12, 12",
+"speed":"CR",
+"block":"-4",
+"hit":"-3",
+"ch":"-3"
+},
+{
+"input":"2, 1, ",
+"range":"",
+"DMG":"8,12, 12",
+"speed":"",
+"block":"-7",
+"hit":"-6",
+"ch":"+4"
+},
+{
+"input":"2, 1, 2",
+"range":"",
+"DMG":"8,12, 12, 18",
+"speed":"",
+"block":"-10",
+"hit":"KD",
+"ch":"KD"
+},
+{
+"input":"2, 1, 2, ",
+"range":"",
+"DMG":"8,12, 12, 18",
+"speed":"",
+"block":"-7?",
+"hit":"KD",
+"ch":"KD"
+},
+{
+"input":"2, 1, d2",
+"range":"",
+"DMG":"8,12, 12, 18",
+"speed":"",
+"block":"-15",
+"hit":"KD",
+"ch":"KD"
+},
+{
+"input":"1, 2, 1, d2, d",
+"range":"",
+"DMG":"8,12, 12, 18",
+"speed":"CR",
+"block":"-15",
+"hit":"KD",
+"ch":"KD"
+},
+{
+"input":"2",
+"range":"",
+"DMG":"12",
+"speed":"12",
+"block":"-1",
+"hit":"+5",
+"ch":"+5"
+},
+{
+"input":"2, 1",
+"range":"",
+"DMG":"12, 14",
+"speed":"",
+"block":"-4",
+"hit":"+7",
+"ch":"+7"
+},
+{
+"input":"2, 1, f",
+"range":"",
+"DMG":"12, 14",
+"speed":"",
+"block":"+3",
+"hit":"+14 NG",
+"ch":"+14"
+},
+{
+"input":"2, 1, b",
+"range":"",
+"DMG":"12, 14",
+"speed":"",
+"block":"+3",
+"hit":"+14 NG",
+"ch":"+14"
+},
+{
+"input":"2, 1~b,db",
+"range":"",
+"DMG":"12, 14",
+"speed":"CR",
+"block":"+2?",
+"hit":"+13? NG",
+"ch":"+13?"
+},
+{
+"input":"2, 1, 2",
+"range":"",
+"DMG":"12, 14, 26",
+"speed":"",
+"block":"-11",
+"hit":"KD",
+"ch":"KD"
+},
+{
+"input":"f2",
+"range":"",
+"DMG":"13",
+"speed":"21",
+"block":"-3",
+"hit":"+5",
+"ch":"+5"
+},
+{
+"input":"f2, 1",
+"range":"",
+"DMG":"13, 14",
+"speed":"",
+"block":"-3",
+"hit":"+11 NG",
+"ch":"+11 NG"
+},
+{
+"input":"f2, 1, b",
+"range":"",
+"DMG":"13, 14",
+"speed":"",
+"block":"+5",
+"hit":"+19 NG",
+"ch":"+19 NG"
+},
+{
+"input":"f2, 1~b,db",
+"range":"",
+"DMG":"13, 14",
+"speed":"CR",
+"block":"+4",
+"hit":"+10 NG",
+"ch":"+10 NG"
+},
+{
+"input":"f2, 1, 2",
+"range":"",
+"DMG":"13, 16",
+"speed":"",
+"block":"-5",
+"hit":"+6 _ + CR M",
+"ch":"+Tech Roll"
+},
+{
+"input":"f1+2",
+"range":"",
+"DMG":"25",
+"speed":"38",
+"block":"-21",
+"hit":"+68 NG",
+"ch":"+68"
+},
+{
+"input":"df1",
+"range":"",
+"DMG":"12",
+"speed":"13",
+"block":"-3",
+"hit":"+5",
+"ch":"+5"
+},
+{
+"input":"df1, ",
+"range":"",
+"DMG":"12",
+"speed":"13",
+"block":"-5?",
+"hit":"+1?",
+"ch":"+1?"
+},
+{
+"input":"df1, 2",
+"range":"",
+"DMG":"12, 14",
+"speed":"",
+"block":"-6",
+"hit":"+3",
+"ch":"+5?"
+},
+{
+"input":"df1, 2, ",
+"range":"",
+"DMG":"12",
+"speed":"",
+"block":"-7?",
+"hit":"-7",
+"ch":"-7"
+},
+{
+"input":"df1+2, 1",
+"range":"",
+"DMG":"12, 24",
+"speed":"",
+"block":"-2",
+"hit":"+1",
+"ch":"KD"
+},
+{
+"input":"df1+2, 1, b",
+"range":"",
+"DMG":"12, 24",
+"speed":"",
+"block":"0",
+"hit":"+4",
+"ch":"KD"
+},
+{
+"input":"df1+2, 1b~,db",
+"range":"",
+"DMG":"12, 24",
+"speed":"CR",
+"block":"-6?",
+"hit":"-2",
+"ch":"KD"
+},
+{
+"input":"df1+2, 2",
+"range":"",
+"DMG":"12, 16",
+"speed":"",
+"block":"-7?",
+"hit":"+4 ?~~ CR M",
+"ch":"+Tech Roll"
+},
+{
+"input":"df1+2, f1+2+",
+"range":"",
+"DMG":"12, 9,14",
+"speed":"",
+"block":"-3",
+"hit":"0",
+"ch":"+3"
+},
+{
+"input":"df1, 2, f1+2",
+"range":"",
+"DMG":"12, 9,14",
+"speed":"",
+"block":"-7?",
+"hit":"-4?",
+"ch":"-1?"
+},
+{
+"input":"df2",
+"range":"",
+"DMG":"20",
+"speed":"16",
+"block":"-9",
+"hit":"+1",
+"ch":"KD"
+},
+{
+"input":"df1+2",
+"range":"",
+"DMG":"14, 25",
+"speed":"14",
+"block":"-12",
+"hit":"KD",
+"ch":"KD"
+},
+{
+"input":"d1",
+"range":"",
+"DMG":"16",
+"speed":"CR",
+"block":"-13",
+"hit":"0 CR",
+"ch":"0 CR"
+},
+{
+"input":"d2",
+"range":"",
+"DMG":"15",
+"speed":"17",
+"block":"-18",
+"hit":"-5",
+"ch":"-5"
+},
+{
+"input":"d2, 1",
+"range":"",
+"DMG":"15,9",
+"speed":"",
+"block":"-11",
+"hit":"-5",
+"ch":"0"
+},
+{
+"input":"d2, 1, ",
+"range":"",
+"DMG":"15,9",
+"speed":"",
+"block":"-8",
+"hit":"-2?",
+"ch":"+3?"
+},
+{
+"input":"d2, 1, 2",
+"range":"",
+"DMG":"15,9,20",
+"speed":"",
+"block":"-3",
+"hit":"KD",
+"ch":"KD"
+},
+{
+"input":"d2, 1",
+"range":"",
+"DMG":"18",
+"speed":"29",
+"block":"-4",
+"hit":"+2",
+"ch":"+7"
+},
+{
+"input":"d2, 1, ",
+"range":"",
+"DMG":"18",
+"speed":"30",
+"block":"-1?",
+"hit":"+5?",
+"ch":"+10?"
+},
+{
+"input":"d2, 1;f2",
+"range":"",
+"DMG":"18,20",
+"speed":"",
+"block":"-3",
+"hit":"KD",
+"ch":"KD"
+},
+{
+"input":"d2, 1+2",
+"range":"",
+"DMG":"18,24",
+"speed":"",
+"block":"-13",
+"hit":"+2 CR",
+"ch":"KD"
+},
+{
+"input":"db2_FC db2",
+"range":"",
+"DMG":"25",
+"speed":"26",
+"block":"-15",
+"hit":"KD",
+"ch":"KD"
+},
+{
+"input":"db2, db_d",
+"range":"",
+"DMG":"25",
+"speed":"26 CR",
+"block":"-15",
+"hit":"KD",
+"ch":"KD"
+},
+{
+"input":"db3",
+"range":"",
+"DMG":"12",
+"speed":"16",
+"block":"-15",
+"hit":"+1",
+"ch":"+1"
+},
+{
+"input":"db3, 2",
+"range":"",
+"DMG":"12, 18",
+"speed":"",
+"block":"-8",
+"hit":"KD",
+"ch":"KD"
+},
+{
+"input":"b1",
+"range":"",
+"DMG":"20",
+"speed":"13",
+"block":"-14",
+"hit":"+2",
+"ch":"KD"
+},
+{
+"input":"b1, b",
+"range":"",
+"DMG":"20",
+"speed":"13",
+"block":"-1",
+"hit":"+12 NG",
+"ch":"KD"
+},
+{
+"input":"b1~b,db",
+"range":"",
+"DMG":"20",
+"speed":"13 CR",
+"block":"-10?",
+"hit":"-2?",
+"ch":"KD"
+},
+{
+"input":"b1, 2",
+"range":"",
+"DMG":"20,12",
+"speed":"",
+"block":"-11",
+"hit":"0",
+"ch":"0"
+},
+{
+"input":"b1, 2, 1",
+"range":"",
+"DMG":"20,12, 24",
+"speed":"",
+"block":"-9",
+"hit":"KD",
+"ch":"KD"
+},
+{
+"input":"b2",
+"range":"",
+"DMG":"18",
+"speed":"17",
+"block":"-9",
+"hit":"+4",
+"ch":"KD"
+},
+{
+"input":"b1+2",
+"range":"",
+"DMG":"",
+"speed":"2",
+"block":"",
+"hit":"",
+"ch":""
+},
+{
+"input":"Pulsing Success 1",
+"range":"",
+"DMG":"36",
+"speed":"14",
+"block":"-14",
+"hit":"KD",
+"ch":"KD"
+},
+{
+"input":"ub1",
+"range":"",
+"DMG":"12",
+"speed":"16",
+"block":"-5",
+"hit":"+6",
+"ch":"+6"
+},
+{
+"input":"uf1",
+"range":"",
+"DMG":"19",
+"speed":"19",
+"block":"-6",
+"hit":"+5",
+"ch":"+5"
+},
+{
+"input":"u_uf2",
+"range":"",
+"DMG":"21",
+"speed":"19",
+"block":"-13",
+"hit":"KD",
+"ch":"KD"
+},
+{
+"input":"u_uf3",
+"range":"",
+"DMG":"24",
+"speed":"36",
+"block":"-12",
+"hit":"+9",
+"ch":"+9"
+},
+{
+"input":"u_uf3, 2",
+"range":"",
+"DMG":"24, 18",
+"speed":"",
+"block":"-9",
+"hit":"KD",
+"ch":"KD"
+},
+{
+"input":"u_uf4",
+"range":"",
+"DMG":"24",
+"speed":"23",
+"block":"-14",
+"hit":"KD",
+"ch":"KD"
+},
+{
+"input":"ff2",
+"range":"",
+"DMG":"28",
+"speed":"15",
+"block":"-13 ~ -12 CR",
+"hit":"KD",
+"ch":"KD"
+},
+{
+"input":"qcf1",
+"range":"",
+"DMG":"25",
+"speed":"18",
+"block":"-10",
+"hit":"KD",
+"ch":"KD"
+},
+{
+"input":"qcf1, b",
+"range":"",
+"DMG":"25",
+"speed":"18",
+"block":"-3",
+"hit":"KD",
+"ch":"KD"
+},
+{
+"input":"qcf1~b,db",
+"range":"",
+"DMG":"25",
+"speed":"18",
+"block":"-4",
+"hit":"KD",
+"ch":"KD"
+},
+{
+"input":"qcb2",
+"range":"",
+"DMG":"84",
+"speed":"697",
+"block":"KD",
+"hit":"KD",
+"ch":"KD"
+},
+{
+"input":"qcb2",
+"range":"",
+"DMG":"54",
+"speed":"69?",
+"block":"KD",
+"hit":"KD",
+"ch":"KD"
+},
+{
+"input":"WR 1",
+"range":"",
+"DMG":"20",
+"speed":"49",
+"block":"-11",
+"hit":"KD",
+"ch":"KD"
+},
+{
+"input":"fff2_WR 2",
+"range":"",
+"DMG":"30",
+"speed":"23",
+"block":"+9",
+"hit":"KD",
+"ch":"KD"
+},
+{
+"input":"WS 1",
+"range":"",
+"DMG":"12",
+"speed":"11",
+"block":"-3",
+"hit":"+3",
+"ch":"+8"
+},
+{
+"input":"WS 1, 2",
+"range":"",
+"DMG":"12, 24",
+"speed":"",
+"block":"-13 ~ -12",
+"hit":"+2 CR ~ +3 CR",
+"ch":"KD"
+},
+{
+"input":"WS 2",
+"range":"",
+"DMG":"19",
+"speed":"15",
+"block":"-7",
+"hit":"+4",
+"ch":"KD"
+},
+{
+"input":"WS 2, ",
+"range":"",
+"DMG":"19",
+"speed":"15",
+"block":"-",
+"hit":"+",
+"ch":"KD"
+},
+{
+"input":"WS 1+2",
+"range":"",
+"DMG":"24",
+"speed":"19",
+"block":"-14",
+"hit":"KD",
+"ch":"KD"
+},
+{
+"input":"on the move next 1+2",
+"range":"",
+"DMG":"28",
+"speed":"26?",
+"block":"+1 ~ +2",
+"hit":"KD",
+"ch":"KD"
+},
+{
+"input":"grounded opponent d1+2",
+"range":"",
+"DMG":"12",
+"speed":"17",
+"block":"-11",
+"hit":"0",
+"ch":"0"
+},
+{
+"input":"2+3+4",
+"range":"",
+"DMG":"",
+"speed":"",
+"block":"",
+"hit":"",
+"ch":""
+}
+]},
+{"action":"Left Sway",
+"data":[
+{
+"input":"3",
+"range":"",
+"DMG":"",
+"speed":"",
+"block":"",
+"hit":"",
+"ch":""
+},
+{
+"input":"1",
+"range":"",
+"DMG":"20",
+"speed":"22",
+"block":"-10",
+"hit":"+1",
+"ch":"DOS +5"
+},
+{
+"input":"1, 1",
+"range":"",
+"DMG":"20,26",
+"speed":"",
+"block":"-10 ~ -11",
+"hit":"KD",
+"ch":"+Tech Roll"
+},
+{
+"input":"1, b",
+"range":"",
+"DMG":"20",
+"speed":"22",
+"block":"-2",
+"hit":"+8",
+"ch":"DOS -"
+},
+{
+"input":"1~b,db",
+"range":"",
+"DMG":"20",
+"speed":"22",
+"block":"-7?",
+"hit":"+3?",
+"ch":"DOS -"
+},
+{
+"input":"1, f1",
+"range":"",
+"DMG":"20,14",
+"speed":"",
+"block":"-4",
+"hit":"+3",
+"ch":"+3"
+},
+{
+"input":"1, f1, 1",
+"range":"",
+"DMG":"20,14, 9",
+"speed":"",
+"block":"+1",
+"hit":"+7",
+"ch":"+7"
+},
+{
+"input":"1, f1, 1, b",
+"range":"",
+"DMG":"20,14, 9",
+"speed":"",
+"block":"-5 ~ -3",
+"hit":"+1 ~ +3",
+"ch":"+1 ~ +3"
+},
+{
+"input":"1, f1~b,db",
+"range":"",
+"DMG":"20,14, 9",
+"speed":"CR",
+"block":"-11 ~ -9",
+"hit":"-5 ~ -3",
+"ch":"-5 ~ -3"
+},
+{
+"input":"in 2",
+"range":"",
+"DMG":"15",
+"speed":"22",
+"block":"-5 ~ -6",
+"hit":"+3 ~ +4",
+"ch":"+3 ~ +4"
+},
+{
+"input":"2, f",
+"range":"",
+"DMG":"15",
+"speed":"22",
+"block":"-",
+"hit":"+",
+"ch":"+"
+},
+{
+"input":"2, 1",
+"range":"",
+"DMG":"15,25",
+"speed":"",
+"block":"-8",
+"hit":"+4 CR",
+"ch":"KD"
+}
+]},
+{"action":"Right Sway",
+"data":[
+{
+"input":"4",
+"range":"",
+"DMG":"",
+"speed":"",
+"block":"",
+"hit":"",
+"ch":""
+},
+{
+"input":"1",
+"range":"",
+"DMG":"15",
+"speed":"22",
+"block":"-5",
+"hit":"+4",
+"ch":"+4"
+},
+{
+"input":"1, f",
+"range":"",
+"DMG":"15",
+"speed":"22",
+"block":"-",
+"hit":"+",
+"ch":"+"
+},
+{
+"input":"1, 2",
+"range":"",
+"DMG":"15,18",
+"speed":"",
+"block":"-12",
+"hit":"KD",
+"ch":"KD"
+},
+{
+"input":"2",
+"range":"",
+"DMG":"26",
+"speed":"23",
+"block":"-15",
+"hit":"KD",
+"ch":"KD"
+}
+]},
+{"action":"Albatross",
+"data":[
+{
+"input":"3+4",
+"range":"",
+"DMG":"",
+"speed":"",
+"block":"",
+"hit":"",
+"ch":""
+},
+{
+"input":"3+4, f",
+"range":"",
+"DMG":"",
+"speed":"",
+"block":"",
+"hit":"",
+"ch":""
+},
+{
+"input":"2",
+"range":"",
+"DMG":"26",
+"speed":"23?",
+"block":"-8 ~ -7",
+"hit":"KD",
+"ch":"KD"
+},
+{
+"input":"d2",
+"range":"",
+"DMG":"20",
+"speed":"34",
+"block":"-15",
+"hit":"KD",
+"ch":"KD"
+},
+{
+"input":"u",
+"range":"",
+"DMG":"",
+"speed":"",
+"block":"",
+"hit":"",
+"ch":""
+},
+{
+"input":"d",
+"range":"",
+"DMG":"",
+"speed":"",
+"block":"",
+"hit":"",
+"ch":""
+},
+{
+"input":"3+4, d_u,f",
+"range":"",
+"DMG":"",
+"speed":"",
+"block":"",
+"hit":"",
+"ch":""
+},
+{
+"input":"d_u~1",
+"range":"",
+"DMG":"30",
+"speed":"49",
+"block":"-10",
+"hit":"KD",
+"ch":"KD"
+},
+{
+"input":"d_u+d1",
+"range":"",
+"DMG":"25",
+"speed":"59",
+"block":"-11",
+"hit":"KD",
+"ch":"KD"
+}
+]},
+{"action":"Ducking",
+"data":[
+{
+"input":"f3, f4",
+"range":"",
+"DMG":"",
+"speed":"",
+"block":"",
+"hit":"",
+"ch":""
+},
+{
+"input":"1",
+"range":"",
+"DMG":"20",
+"speed":"27",
+"block":"-7",
+"hit":"KD",
+"ch":"KD"
+},
+{
+"input":"DUK in 2",
+"range":"",
+"DMG":"16",
+"speed":"25",
+"block":"-14",
+"hit":"KD",
+"ch":"KD"
+},
+{
+"input":"1+2",
+"range":"",
+"DMG":"3",
+"speed":"24",
+"block":"-7",
+"hit":"-1",
+"ch":"-1"
+},
+{
+"input":"1+2, 1",
+"range":"",
+"DMG":"3, 3",
+"speed":"",
+"block":"-9",
+"hit":"+2",
+"ch":"+2"
+},
+{
+"input":"1+2, 1, 2",
+"range":"",
+"DMG":"3, 3, 3",
+"speed":"",
+"block":"-9",
+"hit":"-3",
+"ch":"-3"
+},
+{
+"input":"1+2, 1, 2, 1",
+"range":"",
+"DMG":"3, 3, 3, 3",
+"speed":"",
+"block":"-9",
+"hit":"+2",
+"ch":"+2"
+},
+{
+"input":"1+2, 1, 2, 1, 2",
+"range":"",
+"DMG":"3, 3, 3, 3, 3",
+"speed":"",
+"block":"-9",
+"hit":"-3",
+"ch":"-3"
+},
+{
+"input":"1+2, 1, 2, 1, 2, 1",
+"range":"",
+"DMG":"3, 3, 3, 3, 3, 3",
+"speed":"",
+"block":"-9",
+"hit":"+2",
+"ch":"+2"
+},
+{
+"input":"1+2, 1, 2, 1, 2, 1, 2",
+"range":"",
+"DMG":"3, 3, 3, 3, 3, 3,  ~ 3",
+"speed":"",
+"block":"-9",
+"hit":"-3",
+"ch":"-3"
+},
+{
+"input":"1+2, 1, 2, 1, 2, 1, 2, 1",
+"range":"",
+"DMG":"3, 3, 3, 3, 3, 3,  ~ 3, 3",
+"speed":"",
+"block":"-9",
+"hit":"+2",
+"ch":"+2"
+},
+{
+"input":"1+2, 1, 2, 1, 2, 1, 2, 1, 2",
+"range":"",
+"DMG":"3, 3, 3, 3, 3, 3,  ~ 3, 3, 3",
+"speed":"",
+"block":"-10",
+"hit":"-4",
+"ch":"-4"
+},
+{
+"input":"1+2, 1, 2, 1, 2, 1, 2, 1, 2, 1",
+"range":"",
+"DMG":"3, 3, 3, 3, 3, 3,  ~ 3, 3, 3, 14",
+"speed":"",
+"block":"-12",
+"hit":"KD",
+"ch":"KD"
+},
+{
+"input":"f2",
+"range":"",
+"DMG":"25",
+"speed":"22",
+"block":"-4",
+"hit":"KD",
+"ch":"KD"
+},
+{
+"input":"f2",
+"range":"",
+"DMG":"25",
+"speed":"22",
+"block":"0?",
+"hit":"KD",
+"ch":"KD"
+},
+{
+"input":"f3, f_h_f4, f~h",
+"range":"",
+"DMG":"",
+"speed":"",
+"block":"",
+"hit":"",
+"ch":""
+},
+{
+"input":"1",
+"range":"",
+"DMG":"25",
+"speed":"49",
+"block":"0",
+"hit":"KD",
+"ch":"KD"
+},
+{
+"input":"2",
+"range":"",
+"DMG":"25",
+"speed":"49",
+"block":"-15",
+"hit":"KD",
+"ch":"KD"
+},
+{
+"input":"+2",
+"range":"",
+"DMG":"28",
+"speed":"44",
+"block":"+3",
+"hit":"KD",
+"ch":"KD"
+}
+]},
+{"action":"Peekaboo",
+"data":[
+{
+"input":"f3+4",
+"range":"",
+"DMG":"",
+"speed":"",
+"block":"",
+"hit":"",
+"ch":""
+},
+{
+"input":"db",
+"range":"",
+"DMG":"",
+"speed":"",
+"block":"",
+"hit":"",
+"ch":""
+},
+{
+"input":"1",
+"range":"",
+"DMG":"12",
+"speed":"13",
+"block":"-2",
+"hit":"+9",
+"ch":"+9"
+},
+{
+"input":"1, 2",
+"range":"",
+"DMG":"12, 14",
+"speed":"",
+"block":"-2",
+"hit":"+6",
+"ch":"+6"
+},
+{
+"input":"1, 2, 1",
+"range":"",
+"DMG":"12, 14, 25",
+"speed":"",
+"block":"-13",
+"hit":"+CR",
+"ch":"+CR"
+},
+{
+"input":"2_ub2",
+"range":"",
+"DMG":"22, (25)",
+"speed":"14",
+"block":"-9",
+"hit":"+2 KD",
+"ch":"KD"
+},
+{
+"input":"2_ub2",
+"range":"",
+"DMG":"22, (25)",
+"speed":"14",
+"block":"-9",
+"hit":"+2 KD",
+"ch":"KD"
+},
+{
+"input":"1+2",
+"range":"",
+"DMG":"45",
+"speed":"15?",
+"block":"",
+"hit":"KD",
+"ch":"KD"
+},
+{
+"input":"f2",
+"range":"",
+"DMG":"21",
+"speed":"",
+"block":"-13",
+"hit":"KD",
+"ch":"KD"
+},
+{
+"input":"f1+2",
+"range":"",
+"DMG":"6",
+"speed":"",
+"block":"+6",
+"hit":"+4",
+"ch":"+4"
+},
+{
+"input":"df1",
+"range":"",
+"DMG":"12",
+"speed":"16",
+"block":"-9",
+"hit":"+2",
+"ch":"+2"
+},
+{
+"input":"df1, 1",
+"range":"",
+"DMG":"12, 16",
+"speed":"",
+"block":"-7",
+"hit":"+1",
+"ch":"+1"
+},
+{
+"input":"df1, 1, 2",
+"range":"",
+"DMG":"12, 16,14",
+"speed":"",
+"block":"-9",
+"hit":"-3",
+"ch":"-3"
+},
+{
+"input":"df1, 1, 2, 1",
+"range":"",
+"DMG":"12, 16,14, 21",
+"speed":"",
+"block":"-14",
+"hit":"KD",
+"ch":"KD"
+},
+{
+"input":"df1, 2",
+"range":"",
+"DMG":"12, 19",
+"speed":"",
+"block":"-7",
+"hit":"KD",
+"ch":"KD"
+},
+{
+"input":"df2",
+"range":"",
+"DMG":"19",
+"speed":"17",
+"block":"-10",
+"hit":"KD",
+"ch":"KD"
+},
+{
+"input":"df3+4",
+"range":"",
+"DMG":"",
+"speed":"",
+"block":"",
+"hit":"",
+"ch":""
+},
+{
+"input":"f",
+"range":"",
+"DMG":"",
+"speed":"",
+"block":"",
+"hit":"",
+"ch":""
+},
+{
+"input":"2_1",
+"range":"",
+"DMG":"26",
+"speed":"15",
+"block":"-1",
+"hit":"-3",
+"ch":"DOS +3"
+},
+{
+"input":"2, 1_1, 2, ...",
+"range":"",
+"DMG":"26,26,...",
+"speed":"",
+"block":"-1",
+"hit":"-3",
+"ch":"DOS +3"
+},
+{
+"input":"d1",
+"range":"",
+"DMG":"14",
+"speed":"16",
+"block":"-12",
+"hit":"+2",
+"ch":"+2"
+},
+{
+"input":"d2",
+"range":"",
+"DMG":"24",
+"speed":"28 CR",
+"block":"-16",
+"hit":"KD",
+"ch":"KD"
+},
+{
+"input":"b1",
+"range":"",
+"DMG":"18",
+"speed":"18",
+"block":"-19",
+"hit":"-6",
+"ch":"-6"
+},
+{
+"input":"b1, 1",
+"range":"",
+"DMG":"18,12",
+"speed":"",
+"block":"-7",
+"hit":"-1",
+"ch":"-1"
+},
+{
+"input":"b1, 1, 2",
+"range":"",
+"DMG":"18,12, 14",
+"speed":"",
+"block":"-10",
+"hit":"-4",
+"ch":"-4"
+},
+{
+"input":"b1, 1, 2, 1",
+"range":"",
+"DMG":"18,12, 14, 25",
+"speed":"",
+"block":"-10",
+"hit":"KD",
+"ch":"KD"
+},
+{
+"input":"b1, 1, 2, 1, b",
+"range":"",
+"DMG":"18,12, 14, 25",
+"speed":"",
+"block":"-4 ~ -6",
+"hit":"KD",
+"ch":"KD"
+},
+{
+"input":"b2",
+"range":"",
+"DMG":"30",
+"speed":"29",
+"block":"-14",
+"hit":"KD",
+"ch":"KD"
+},
+{
+"input":"u_uf2",
+"range":"",
+"DMG":"21",
+"speed":"18",
+"block":"-15",
+"hit":"KD",
+"ch":"KD"
+}
+]},
+{"action":"Sway",
+"data":[
+{
+"input":"b3_b4",
+"range":"",
+"DMG":"",
+"speed":"",
+"block":"",
+"hit":"",
+"ch":""
+},
+{
+"input":"1",
+"range":"",
+"DMG":"31",
+"speed":"22",
+"block":"-10 ~ -9",
+"hit":"+10 CR_+2 CR",
+"ch":"KD"
+},
+{
+"input":"2",
+"range":"",
+"DMG":"36",
+"speed":"27",
+"block":"-18",
+"hit":"KD",
+"ch":"KD"
+},
+{
+"input":"1+2_+d,b,f,u",
+"range":"",
+"DMG":"0",
+"speed":"",
+"block":"",
+"hit":"+1",
+"ch":""
+}
+]},
+{"action":"Flicker",
+"data":[
+{
+"input":"b3+4",
+"range":"",
+"DMG":"",
+"speed":"",
+"block":"",
+"hit":"",
+"ch":""
+},
+{
+"input":"b3+4, ",
+"range":"",
+"DMG":"",
+"speed":"",
+"block":"",
+"hit":"",
+"ch":""
+},
+{
+"input":"1",
+"range":"",
+"DMG":"14",
+"speed":"12",
+"block":"-1",
+"hit":"+10",
+"ch":"+10"
+},
+{
+"input":"1, 1",
+"range":"",
+"DMG":"14, 9",
+"speed":"",
+"block":"-9",
+"hit":"0",
+"ch":"0"
+},
+{
+"input":"1, 1, 1",
+"range":"",
+"DMG":"14, 9,9",
+"speed":"",
+"block":"-9",
+"hit":"0",
+"ch":"0"
+},
+{
+"input":"1, 1, 1, 2",
+"range":"",
+"DMG":"14, 9,9,26",
+"speed":"",
+"block":"-16",
+"hit":"KD",
+"ch":"KD"
+},
+{
+"input":"1, b",
+"range":"",
+"DMG":"14",
+"speed":"12",
+"block":"-1",
+"hit":"+10 NG",
+"ch":"+10 NG"
+},
+{
+"input":"1~b,db",
+"range":"",
+"DMG":"14",
+"speed":"12 CR",
+"block":"-2",
+"hit":"+9 NG",
+"ch":"+9 NG"
+},
+{
+"input":"1, 1, b",
+"range":"",
+"DMG":"14, 9",
+"speed":"",
+"block":"-4",
+"hit":"+5",
+"ch":"+5"
+},
+{
+"input":"1, 1~b,db",
+"range":"",
+"DMG":"14, 9",
+"speed":"CR",
+"block":"-5",
+"hit":"+4",
+"ch":"+4"
+},
+{
+"input":"1, 1, 1, b",
+"range":"",
+"DMG":"14, 9,9",
+"speed":"",
+"block":"-4",
+"hit":"+5",
+"ch":"+5"
+},
+{
+"input":"1, 1, 1~b,db",
+"range":"",
+"DMG":"14, 9,9",
+"speed":"CR",
+"block":"-5",
+"hit":"+4",
+"ch":"+4"
+},
+{
+"input":"1, f1",
+"range":"",
+"DMG":"14, 20",
+"speed":"",
+"block":"-5",
+"hit":"+6?",
+"ch":"KD"
+},
+{
+"input":"1, d_u+1",
+"range":"",
+"DMG":"14, 27",
+"speed":"",
+"block":"0",
+"hit":"KD",
+"ch":"KD"
+},
+{
+"input":"2",
+"range":"",
+"DMG":"25",
+"speed":"18 ~ 19",
+"block":"0 ~ +1 CR",
+"hit":"KD",
+"ch":"KD"
+},
+{
+"input":"1+2",
+"range":"",
+"DMG":"40",
+"speed":"",
+"block":"",
+"hit":"KD",
+"ch":"KD"
+},
+{
+"input":"b2",
+"range":"",
+"DMG":"30",
+"speed":"14 ~ 19",
+"block":"0 ~ -1",
+"hit":"KD",
+"ch":"KD"
+},
+{
+"input":"b3+4(db ~ df)",
+"range":"",
+"DMG":"",
+"speed":"",
+"block":"-",
+"hit":"+",
+"ch":"+"
+},
+{
+"input":"f3+4",
+"range":"",
+"DMG":"",
+"speed":"",
+"block":"",
+"hit":"",
+"ch":""
+},
+{
+"input":"b1+2",
+"range":"",
+"DMG":"",
+"speed":"2",
+"block":"",
+"hit":"",
+"ch":""
+},
+{
+"input":"Pulling Success 1",
+"range":"",
+"DMG":"36",
+"speed":"14",
+"block":"-14",
+"hit":"KD",
+"ch":"KD"
+}
+]}
+]}
