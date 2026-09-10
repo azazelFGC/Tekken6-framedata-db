@@ -1,0 +1,1294 @@
+{"name":"Zafina","frames":[
+{"action":"Standing",
+"data":[
+{
+"input":"1",
+"range":"h",
+"DMG":"8",
+"speed":"10",
+"block":"-1",
+"hit":"+8",
+"ch":"+8"
+},
+{
+"input":"1, 2",
+"range":"h",
+"DMG":"8, 10",
+"speed":"",,
+"block":"-4",
+"hit":"+4",
+"ch":"+4"
+},
+{
+"input":"1, 2, 3",
+"range":"h,h,h",
+"DMG":"8, 10, 14",
+"speed":"",,
+"block":"-1",
+"hit":"+8",
+"ch":"+8"
+},
+{
+"input":"1, 2, 3, b",
+"range":"h,h,h",
+"DMG":"8, 10, 14",
+"speed":"",,
+"block":"-9",
+"hit":"0",
+"ch":"0"
+},
+{
+"input":"1, 3",
+"range":"h,h",
+"DMG":"8, 16",
+"speed":"",,
+"block":"-8",
+"hit":"+1",
+"ch":"+1"
+},
+{
+"input":"1, 4",
+"range":"h,m",
+"DMG":"8, 18",
+"speed":"",,
+"block":"-17",
+"hit":"-6",
+"ch":"KD"
+},
+{
+"input":"2",
+"range":"h",
+"DMG":"12",
+"speed":"10",
+"block":"-7",
+"hit":"-1",
+"ch":"-1"
+},
+{
+"input":"2, 1",
+"range":"h,m",
+"DMG":"12, 13",
+"speed":"",,
+"block":"-6",
+"hit":"+5",
+"ch":"KD"
+},
+{
+"input":"2, 1, 3",
+"range":"h,m,l",
+"DMG":"12, 13, 24",
+"speed":"",,
+"block":"-17",
+"hit":"KD",
+"ch":"KD"
+},
+{
+"input":"2, 2",
+"range":"h,m",
+"DMG":"12, 14",
+"speed":"",,
+"block":"-12",
+"hit":"-1",
+"ch":"+4"
+},
+{
+"input":"2, 2, 1+2",
+"range":"h,m,m,m,m",
+"DMG":"12, 14, 8, 13, 24",
+"speed":"",,
+"block":"-9",
+"hit":"KD",
+"ch":"KD"
+},
+{
+"input":"2, 2, 1+2",
+"range":"h,m,m,m,m",
+"DMG":"12, 14, 8, 13, 24",
+"speed":"",,
+"block":"-9",
+"hit":"+4 CR",
+"ch":"KD"
+},
+{
+"input":"3",
+"range":"h",
+"DMG":"20",
+"speed":"13",
+"block":"-1",
+"hit":"+8",
+"ch":"+8"
+},
+{
+"input":"3, b",
+"range":"h",
+"DMG":"20",
+"speed":"13",
+"block":"-8",
+"hit":"+2",
+"ch":"+2"
+},
+{
+"input":"1+2",
+"range":"m",
+"DMG":"24",
+"speed":"16",
+"block":"-12",
+"hit":"+4",
+"ch":"KD"
+},
+{
+"input":"1+2, 4",
+"range":"m,m",
+"DMG":"24, 14",
+"speed":"",,
+"block":"-10",
+"hit":"+1",
+"ch":"+6"
+},
+{
+"input":"1+2, 4, 4",
+"range":"m,m,m",
+"DMG":"24, 14, 31",
+"speed":"",,
+"block":"-11",
+"hit":"YKRD",
+"ch":"YKRD"
+},
+{
+"input":"f2",
+"range":"m",
+"DMG":"18",
+"speed":"19",
+"block":"-18",
+"hit":"-6",
+"ch":"KD"
+},
+{
+"input":"f2, 3",
+"range":"m,h",
+"DMG":"18, 14",
+"speed":"",,
+"block":"-1",
+"hit":"+8",
+"ch":"+8"
+},
+{
+"input":"f2, 3, b",
+"range":"m,h",
+"DMG":"18, 14",
+"speed":"",,
+"block":"-9",
+"hit":"0",
+"ch":"0"
+},
+{
+"input":"f2, 3, 4",
+"range":"m,h,m",
+"DMG":"18, 14, 30",
+"speed":"",,
+"block":"-18",
+"hit":"KD",
+"ch":"KD"
+},
+{
+"input":"f3",
+"range":"h",
+"DMG":"33",
+"speed":"21",
+"block":"0 Y",
+"hit":"KD",
+"ch":"KD"
+},
+{
+"input":"f3, b",
+"range":"h",
+"DMG":"33",
+"speed":"21",
+"block":"-1 Y",
+"hit":"KD",
+"ch":"KD"
+},
+{
+"input":"f4",
+"range":"h",
+"DMG":"21",
+"speed":"14",
+"block":"-8",
+"hit":"KD",
+"ch":"KD"
+},
+{
+"input":"f1+2",
+"range":"m",
+"DMG":"28",
+"speed":"19",
+"block":"-10",
+"hit":"KD",
+"ch":"KD"
+},
+{
+"input":"df1",
+"range":"m",
+"DMG":"15",
+"speed":"13",
+"block":"-5",
+"hit":"+7",
+"ch":"+7"
+},
+{
+"input":"df1, 2",
+"range":"m,m",
+"DMG":"15, 19",
+"speed":"",,
+"block":"-11",
+"hit":"+1",
+"ch":"KD"
+},
+{
+"input":"df1, 4",
+"range":"m,h",
+"DMG":"15, 21",
+"speed":"",,
+"block":"-6",
+"hit":"-1",
+"ch":"-1"
+},
+{
+"input":"df2",
+"range":"m",
+"DMG":"15",
+"speed":"16 ~ 17",
+"block":"-12 ~ -11",
+"hit":"KD",
+"ch":"KD"
+},
+{
+"input":"df3",
+"range":"m",
+"DMG":"18",
+"speed":"14",
+"block":"-5",
+"hit":"+1",
+"ch":"+6"
+},
+{
+"input":"df3, b",
+"range":"m",
+"DMG":"18",
+"speed":"14",
+"block":"-10",
+"hit":"-4",
+"ch":"+1"
+},
+{
+"input":"df3, 4",
+"range":"m,h",
+"DMG":"18, 20",
+"speed":"",,
+"block":"-6",
+"hit":"+9",
+"ch":"KD"
+},
+{
+"input":"df3, d4",
+"range":"m,l",
+"DMG":"18, 18",
+"speed":"",,
+"block":"-17",
+"hit":"-2 CR",
+"ch":"-2 CR"
+},
+{
+"input":"df3, d4, d",
+"range":"m,l",
+"DMG":"18, 18",
+"speed":"CR",
+"block":"-17",
+"hit":"-2 CR",
+"ch":"-2 CR"
+},
+{
+"input":"df4",
+"range":"m",
+"DMG":"16",
+"speed":"14",
+"block":"-13",
+"hit":"-2",
+"ch":"+3"
+},
+{
+"input":"df4, 1",
+"range":"m,m",
+"DMG":"16, 26",
+"speed":"",,
+"block":"-12",
+"hit":"+8",
+"ch":"KD"
+},
+{
+"input":"df1+2",
+"range":"m",
+"DMG":"24",
+"speed":"36",
+"block":"-10",
+"hit":"KD",
+"ch":"KD"
+},
+{
+"input":"d1",
+"range":"m",
+"DMG":"15",
+"speed":"12",
+"block":"-16",
+"hit":"-8 CR",
+"ch":"-8 CR"
+},
+{
+"input":"d1, 1",
+"range":"m,m",
+"DMG":"15, 18",
+"speed":"",,
+"block":"-13",
+"hit":"KD",
+"ch":"KD"
+},
+{
+"input":"d2",
+"range":"m",
+"DMG":"19",
+"speed":"19",
+"block":"-16 CR",
+"hit":"+3 CR",
+"ch":"KD"
+},
+{
+"input":"d2, 4",
+"range":"m,m",
+"DMG":"19, 15",
+"speed":"",,
+"block":"-23",
+"hit":"-7",
+"ch":"-7 CR"
+},
+{
+"input":"d2, 4, 3",
+"range":"m,m,m",
+"DMG":"19, 15, 18",
+"speed":"",,
+"block":"-16",
+"hit":"KD",
+"ch":"KD"
+},
+{
+"input":"d4",
+"range":"l",
+"DMG":"9",
+"speed":"17",
+"block":"-19",
+"hit":"-3",
+"ch":"+18 NG"
+},
+{
+"input":"d4, 3",
+"range":"l,h",
+"DMG":"9, 12",
+"speed":"",,
+"block":"-6",
+"hit":"KD",
+"ch":"KD"
+},
+{
+"input":"db2",
+"range":"m",
+"DMG":"19",
+"speed":"13",
+"block":"-9",
+"hit":"+3",
+"ch":"KD"
+},
+{
+"input":"db_d3",
+"range":"l",
+"DMG":"14",
+"speed":"18",
+"block":"-8",
+"hit":"+3",
+"ch":"+3"
+},
+{
+"input":"db4, fC_db4",
+"range":"l",
+"DMG":"16",
+"speed":"21",
+"block":"-13",
+"hit":"-4",
+"ch":"+3"
+},
+{
+"input":"db4, d",
+"range":"l",
+"DMG":"16",
+"speed":"21",
+"block":"-21",
+"hit":"-12",
+"ch":"-12"
+},
+{
+"input":"db4, 2",
+"range":"l,m",
+"DMG":"16, 20",
+"speed":"",,
+"block":"-13",
+"hit":"CR KD",
+"ch":"CR KD"
+},
+{
+"input":"db1+2",
+"range":"l",
+"DMG":"20",
+"speed":"28",
+"block":"-16",
+"hit":"KD",
+"ch":"KD"
+},
+{
+"input":"db1+2, 1+2",
+"range":"l,m",
+"DMG":"20, 24",
+"speed":"",,
+"block":"-14",
+"hit":"KD",
+"ch":"KD"
+},
+{
+"input":"b1",
+"range":"m",
+"DMG":"22",
+"speed":"18",
+"block":"-13",
+"hit":"+1",
+"ch":"KD"
+},
+{
+"input":"b2",
+"range":"h",
+"DMG":"26",
+"speed":"22",
+"block":"-8",
+"hit":"+7",
+"ch":"KD"
+},
+{
+"input":"b3",
+"range":"m",
+"DMG":"25",
+"speed":"24",
+"block":"-5 CR",
+"hit":"KD",
+"ch":"KD"
+},
+{
+"input":"b4",
+"range":"m",
+"DMG":"21",
+"speed":"22",
+"block":"-9",
+"hit":"-3",
+"ch":"-3"
+},
+{
+"input":"b4, 4",
+"range":"m,m",
+"DMG":"21, 26",
+"speed":"",,
+"block":"-14",
+"hit":"KD",
+"ch":"KD"
+},
+{
+"input":"b1+2",
+"range":"l",
+"DMG":"14",
+"speed":"16",
+"block":"-22",
+"hit":"-7 CR",
+"ch":"-7 CR"
+},
+{
+"input":"b2+3",
+"range":"!",
+"DMG":"48",
+"speed":"50?",
+"block":"KD",
+"hit":"KD",
+"ch":"KD"
+},
+{
+"input":"uf1",
+"range":"h",
+"DMG":"24",
+"speed":"19",
+"block":"+2",
+"hit":"+7",
+"ch":"KD"
+},
+{
+"input":"ub3",
+"range":"m",
+"DMG":"22",
+"speed":"22",
+"block":"-17",
+"hit":"-6",
+"ch":"-6"
+},
+{
+"input":"u_uf3",
+"range":"m",
+"DMG":"20",
+"speed":"22",
+"block":"-8",
+"hit":"KD",
+"ch":"KD"
+},
+{
+"input":"ff2",
+"range":"h",
+"DMG":"36",
+"speed":"16",
+"block":"+1",
+"hit":"KD",
+"ch":"KD"
+},
+{
+"input":"ff3",
+"range":"m",
+"DMG":"28",
+"speed":"22",
+"block":"0",
+"hit":"+5 CR",
+"ch":"KD"
+},
+{
+"input":"ff3, b",
+"range":"m",
+"DMG":"28",
+"speed":"22",
+"block":"0",
+"hit":"+5 CR",
+"ch":"KD"
+},
+{
+"input":"ff3, 1",
+"range":"m,m",
+"DMG":"28, 28",
+"speed":"",,
+"block":"-16",
+"hit":"KD",
+"ch":"KD"
+},
+{
+"input":"ff4",
+"range":"m",
+"DMG":"26",
+"speed":"18",
+"block":"-8",
+"hit":"KD",
+"ch":"KD"
+},
+{
+"input":"ff3+4",
+"range":"m,m",
+"DMG":"12, 25",
+"speed":"22",
+"block":"-11",
+"hit":"KD",
+"ch":"KD"
+},
+{
+"input":"ff3+4, d",
+"range":"m,m",
+"DMG":"12, 25",
+"speed":"22",
+"block":"-12",
+"hit":"KD",
+"ch":"KD"
+},
+{
+"input":"fff3 _ WR3",
+"range":"m",
+"DMG":"36",
+"speed":"26",
+"block":"+6 ~ +12?",
+"hit":"KD",
+"ch":"KD"
+},
+{
+"input":"WR4",
+"range":"",
+"DMG":"25",
+"speed":"",,
+"block":"-",
+"hit":"KD",
+"ch":"KD"
+},
+{
+"input":"WR4, u",
+"range":"l",
+"DMG":"25",
+"speed":"",,
+"block":"-",
+"hit":"KD",
+"ch":"KD"
+},
+{
+"input":"being run 4, d",
+"range":"l",
+"DMG":"25",
+"speed":"",,
+"block":"-",
+"hit":"KD",
+"ch":"KD"
+},
+{
+"input":"WS1",
+"range":"m",
+"DMG":"18",
+"speed":"15",
+"block":"-16",
+"hit":"KD",
+"ch":"KD"
+},
+{
+"input":"WS1, 2",
+"range":"m,m",
+"DMG":"18, 20",
+"speed":"",,
+"block":"-14",
+"hit":"KD",
+"ch":"KD"
+},
+{
+"input":"WS2",
+"range":"m",
+"DMG":"24",
+"speed":"18",
+"block":"-14",
+"hit":"KD",
+"ch":"KD"
+},
+{
+"input":"WS2, d",
+"range":"m",
+"DMG":"24",
+"speed":"18",
+"block":"-31?",
+"hit":"KD",
+"ch":"KD"
+},
+{
+"input":"FCdf3",
+"range":"l",
+"DMG":"18",
+"speed":"24",
+"block":"-26 ~ -25",
+"hit":"KD",
+"ch":"KD"
+},
+{
+"input":"FCdf3, db_d",
+"range":"l",
+"DMG":"18",
+"speed":"24",
+"block":"-26 ~ -25",
+"hit":"KD",
+"ch":"KD"
+},
+{
+"input":"SS 1+2",
+"range":"m",
+"DMG":"26",
+"speed":"26",
+"block":"-7 CR",
+"hit":"+6 CR",
+"ch":"KD"
+}
+]},
+{"action":"Tarantula",
+"data":[
+{
+"input":"d1+2",
+"range":"",
+"DMG":"",,
+"speed":"",,
+"block":"",,
+"hit":"",,
+"ch":"",
+},
+{
+"input":"d1+2, db, ub, u_uf",
+"range":"",
+"DMG":"",,
+"speed":"",,
+"block":"",,
+"hit":"",,
+"ch":"",
+},
+{
+"input":"1",
+"range":"",
+"DMG":"13",
+"speed":"18",
+"block":"11 A",
+"hit":"+5",
+"ch":"KD"
+},
+{
+"input":"2",
+"range":"",
+"DMG":"28",
+"speed":"33",
+"block":"-9",
+"hit":"KD",
+"ch":"KD"
+},
+{
+"input":"3",
+"range":"",
+"DMG":"19",
+"speed":"14",
+"block":"-7",
+"hit":"KD",
+"ch":"KD"
+},
+{
+"input":"3, u",
+"range":"",
+"DMG":"19",
+"speed":"14",
+"block":"-17",
+"hit":"KD",
+"ch":"KD"
+},
+{
+"input":"3, d",
+"range":"",
+"DMG":"19",
+"speed":"14",
+"block":"-14",
+"hit":"KD",
+"ch":"KD"
+},
+{
+"input":"4",
+"range":"",
+"DMG":"21",
+"speed":"28",
+"block":"24",
+"hit":"-9",
+"ch":"-6 CR"
+},
+{
+"input":"4, 3",
+"range":"",
+"DMG":"21, 18",
+"speed":"",,
+"block":"-16",
+"hit":"KD",
+"ch":"KD"
+},
+{
+"input":"1+2",
+"range":"",
+"DMG":"10, 24",
+"speed":"19",
+"block":"-13 CR",
+"hit":"KD",
+"ch":"KD"
+},
+{
+"input":"d1+2",
+"range":"",
+"DMG":"24",
+"speed":"25",
+"block":"-20",
+"hit":"KD",
+"ch":"KD"
+}
+]},
+{"action":"Scare Crow",
+"data":[
+{
+"input":"3+4 _ 3+4 _ w_k in various WS",
+"range":"",
+"DMG":"",,
+"speed":"",,
+"block":"",,
+"hit":"",,
+"ch":"",
+},
+{
+"input":"3+4, db, nb, u_uf",
+"range":"",
+"DMG":"",,
+"speed":"",,
+"block":"",,
+"hit":"",,
+"ch":"",
+},
+{
+"input":"1",
+"range":"",
+"DMG":"14",
+"speed":"10",
+"block":"-3",
+"hit":"+8",
+"ch":"+8"
+},
+{
+"input":"2",
+"range":"",
+"DMG":"15",
+"speed":"14",
+"block":"-7",
+"hit":"+7",
+"ch":"KD"
+},
+{
+"input":"2, 2",
+"range":"",
+"DMG":"15, 20",
+"speed":"",,
+"block":"-10",
+"hit":"+8 CR",
+"ch":"KD"
+},
+{
+"input":"3",
+"range":"",
+"DMG":"18",
+"speed":"13",
+"block":"-6",
+"hit":"+5",
+"ch":"+5"
+},
+{
+"input":"3, 3",
+"range":"",
+"DMG":"18, 12",
+"speed":"",,
+"block":"-9",
+"hit":"+2",
+"ch":"+7"
+},
+{
+"input":"3, 3, 4",
+"range":"",
+"DMG":"18, 12, 18",
+"speed":"",,
+"block":"-25",
+"hit":"KD",
+"ch":"KD"
+},
+{
+"input":"3, 3, 4, d",
+"range":"",
+"DMG":"18, 12, 18",
+"speed":"",,
+"block":"-22?",
+"hit":"KD",
+"ch":"KD"
+},
+{
+"input":"3, f3",
+"range":"",
+"DMG":"18, 18",
+"speed":"",,
+"block":"-3",
+"hit":"KD",
+"ch":"KD"
+},
+{
+"input":"4",
+"range":"",
+"DMG":"30",
+"speed":"14",
+"block":"-15",
+"hit":"KD",
+"ch":"KD"
+},
+{
+"input":"4, b",
+"range":"",
+"DMG":"30",
+"speed":"14",
+"block":"-19",
+"hit":"KD",
+"ch":"KD"
+},
+{
+"input":"1+2",
+"range":"",
+"DMG":"33",
+"speed":"17",
+"block":"+6",
+"hit":"KD",
+"ch":"KD"
+},
+{
+"input":"1+2, d",
+"range":"",
+"DMG":"33",
+"speed":"17",
+"block":"+6",
+"hit":"KD",
+"ch":"KD"
+},
+{
+"input":"3+4",
+"range":"",
+"DMG":"7, 24",
+"speed":"17",
+"block":"-12",
+"hit":"KD",
+"ch":"KD"
+},
+{
+"input":"3+4, d",
+"range":"",
+"DMG":"7, 24",
+"speed":"17",
+"block":"-13",
+"hit":"KD",
+"ch":"KD"
+},
+{
+"input":"df3",
+"range":"",
+"DMG":"24",
+"speed":"28 CR",
+"block":"-21",
+"hit":"KD",
+"ch":"KD"
+},
+{
+"input":"df3, d",
+"range":"",
+"DMG":"24",
+"speed":"28",
+"block":"-21",
+"hit":"KD",
+"ch":"KD"
+},
+{
+"input":"df4",
+"range":"",
+"DMG":"18",
+"speed":"24",
+"block":"-23",
+"hit":"+4",
+"ch":"KD"
+},
+{
+"input":"df4, d",
+"range":"",
+"DMG":"18",
+"speed":"24",
+"block":"-26",
+"hit":"+3",
+"ch":"KD"
+},
+{
+"input":"d3",
+"range":"",
+"DMG":"12",
+"speed":"18",
+"block":"-6",
+"hit":"+3",
+"ch":"+10 CR"
+},
+{
+"input":"d3, 3",
+"range":"",
+"DMG":"12, 33",
+"speed":"",,
+"block":"0 Y",
+"hit":"KD",
+"ch":"KD"
+},
+{
+"input":"d3, 3, b",
+"range":"",
+"DMG":"12, 33",
+"speed":"",,
+"block":"-1 Y",
+"hit":"KD",
+"ch":"KD"
+},
+{
+"input":"d3, d3",
+"range":"",
+"DMG":"12, 18",
+"speed":"",,
+"block":"-8",
+"hit":"+8 CR",
+"ch":"+9 CR"
+},
+{
+"input":"d4",
+"range":"",
+"DMG":"20",
+"speed":"26 CR ~ 32 CR ?",
+"block":"-29? ~ -23 f",
+"hit":"KD",
+"ch":"KD"
+},
+{
+"input":"d4, d",
+"range":"",
+"DMG":"20",
+"speed":"",,
+"block":"-30? ~ -24 f?",
+"hit":"KD",
+"ch":"KD"
+},
+{
+"input":"d3+4",
+"range":"",
+"DMG":"",,
+"speed":"",,
+"block":"",,
+"hit":"",,
+"ch":"",
+}
+]},
+{"action":"Mantis",
+"data":[
+{
+"input":"d3+4 _ ub3+4",
+"range":"",
+"DMG":"",,
+"speed":"",,
+"block":"",,
+"hit":"",,
+"ch":"",
+},
+{
+"input":"db_ub_u_uf",
+"range":"",
+"DMG":"",,
+"speed":"",,
+"block":"",,
+"hit":"",,
+"ch":"",
+},
+{
+"input":"2+3",
+"range":"",
+"DMG":"",,
+"speed":"BT",
+"block":"",,
+"hit":"",,
+"ch":"",
+},
+{
+"input":"1",
+"range":"",
+"DMG":"14",
+"speed":"13",
+"block":"-7",
+"hit":"+5",
+"ch":"+5"
+},
+{
+"input":"2",
+"range":"",
+"DMG":"22",
+"speed":"13",
+"block":"-15",
+"hit":"-4",
+"ch":"KD"
+},
+{
+"input":"2, 1",
+"range":"",
+"DMG":"22, 12",
+"speed":"",,
+"block":"-17",
+"hit":"+6",
+"ch":"+6"
+},
+{
+"input":"2, 1, 4",
+"range":"",
+"DMG":"22, 12, 30",
+"speed":"",,
+"block":"-13",
+"hit":"KD",
+"ch":"KD"
+},
+{
+"input":"3",
+"range":"",
+"DMG":"22",
+"speed":"22",
+"block":"-14 CR",
+"hit":"+3 CR",
+"ch":"KD"
+},
+{
+"input":"3, 4",
+"range":"",
+"DMG":"22, 12",
+"speed":"",,
+"block":"-17 CR",
+"hit":"-1 CR",
+"ch":"-1 CR"
+},
+{
+"input":"3, 4, 4",
+"range":"",
+"DMG":"22, 12, 22",
+"speed":"CR",
+"block":"-18 CR",
+"hit":"+4 CR",
+"ch":"KD"
+},
+{
+"input":"3, 4, d4",
+"range":"",
+"DMG":"22, 12, 19",
+"speed":"",,
+"block":"-22",
+"hit":"+9",
+"ch":"+9"
+},
+{
+"input":"4",
+"range":"",
+"DMG":"15",
+"speed":"17",
+"block":"-19",
+"hit":"-3",
+"ch":"KD"
+},
+{
+"input":"4, 3",
+"range":"",
+"DMG":"15, 24",
+"speed":"",,
+"block":"33?",
+"hit":"KD",
+"ch":"KD"
+},
+{
+"input":"df2",
+"range":"",
+"DMG":"20",
+"speed":"19",
+"block":"-14",
+"hit":"KD",
+"ch":"KD"
+},
+{
+"input":"df3",
+"range":"",
+"DMG":"24",
+"speed":"15",
+"block":"-17",
+"hit":"+11",
+"ch":"KD"
+},
+{
+"input":"df3, 4",
+"range":"",
+"DMG":"24",
+"speed":"15 BT",
+"block":"-16",
+"hit":"+12",
+"ch":"KD"
+},
+{
+"input":"d1",
+"range":"",
+"DMG":"16",
+"speed":"15",
+"block":"-11",
+"hit":"0",
+"ch":"0"
+},
+{
+"input":"d1, 4",
+"range":"",
+"DMG":"16, 27",
+"speed":"",,
+"block":"-16",
+"hit":"KD",
+"ch":"KD"
+},
+{
+"input":"d3",
+"range":"",
+"DMG":"14",
+"speed":"15",
+"block":"-12",
+"hit":"-1",
+"ch":"-1"
+},
+{
+"input":"d3, 1",
+"range":"",
+"DMG":"14, 19",
+"speed":"",,
+"block":"-8",
+"hit":"KD",
+"ch":"KD"
+},
+{
+"input":"d4",
+"range":"",
+"DMG":"17",
+"speed":"20 ~ 22",
+"block":"-24 ~ -22",
+"hit":"+2 CR ~ +4 CR",
+"ch":"KD"
+},
+{
+"input":"d4, d",
+"range":"",
+"DMG":"20",
+"speed":"20 ~ 22",
+"block":"-23 ~ -21",
+"hit":"+5 CR ~ +5 CR",
+"ch":"KD"
+},
+{
+"input":"uf3",
+"range":"",
+"DMG":"30",
+"speed":"26 ~ 28",
+"block":"-14 ~ -13 CR",
+"hit":"KD",
+"ch":"KD"
+},
+{
+"input":"uf3, d",
+"range":"",
+"DMG":"30",
+"speed":"26 CR ~ 28 CR",
+"block":"-10 ~ -9 CR",
+"hit":"KD",
+"ch":"KD"
+}
+]
+}
+]}"KD"
+}
+]
+}
+]}ck":"-10 ~ -9 CR",
+"hit":"KD",
+"ch":"KD"
+}
+]
+}
+]}
