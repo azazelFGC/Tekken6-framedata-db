@@ -14,7 +14,7 @@
 "input":"1, 2",
 "range":"h",
 "DMG":"8, 10",
-"speed":"",,
+"speed":"",
 "block":"-4",
 "hit":"+4",
 "ch":"+4"
@@ -23,7 +23,7 @@
 "input":"1, 2, 3",
 "range":"h,h,h",
 "DMG":"8, 10, 14",
-"speed":"",,
+"speed":"",
 "block":"-1",
 "hit":"+8",
 "ch":"+8"
@@ -32,7 +32,7 @@
 "input":"1, 2, 3, b",
 "range":"h,h,h",
 "DMG":"8, 10, 14",
-"speed":"",,
+"speed":"",
 "block":"-9",
 "hit":"0",
 "ch":"0"
@@ -41,7 +41,7 @@
 "input":"1, 3",
 "range":"h,h",
 "DMG":"8, 16",
-"speed":"",,
+"speed":"",
 "block":"-8",
 "hit":"+1",
 "ch":"+1"
@@ -50,7 +50,7 @@
 "input":"1, 4",
 "range":"h,m",
 "DMG":"8, 18",
-"speed":"",,
+"speed":"",
 "block":"-17",
 "hit":"-6",
 "ch":"KD"
@@ -68,7 +68,7 @@
 "input":"2, 1",
 "range":"h,m",
 "DMG":"12, 13",
-"speed":"",,
+"speed":"",
 "block":"-6",
 "hit":"+5",
 "ch":"KD"
@@ -77,7 +77,7 @@
 "input":"2, 1, 3",
 "range":"h,m,l",
 "DMG":"12, 13, 24",
-"speed":"",,
+"speed":"",
 "block":"-17",
 "hit":"KD",
 "ch":"KD"
@@ -86,7 +86,7 @@
 "input":"2, 2",
 "range":"h,m",
 "DMG":"12, 14",
-"speed":"",,
+"speed":"",
 "block":"-12",
 "hit":"-1",
 "ch":"+4"
@@ -95,7 +95,7 @@
 "input":"2, 2, 1+2",
 "range":"h,m,m,m,m",
 "DMG":"12, 14, 8, 13, 24",
-"speed":"",,
+"speed":"",
 "block":"-9",
 "hit":"KD",
 "ch":"KD"
@@ -104,7 +104,7 @@
 "input":"2, 2, 1+2",
 "range":"h,m,m,m,m",
 "DMG":"12, 14, 8, 13, 24",
-"speed":"",,
+"speed":"",
 "block":"-9",
 "hit":"+4 CR",
 "ch":"KD"
@@ -140,7 +140,7 @@
 "input":"1+2, 4",
 "range":"m,m",
 "DMG":"24, 14",
-"speed":"",,
+"speed":"",
 "block":"-10",
 "hit":"+1",
 "ch":"+6"
@@ -149,7 +149,7 @@
 "input":"1+2, 4, 4",
 "range":"m,m,m",
 "DMG":"24, 14, 31",
-"speed":"",,
+"speed":"",
 "block":"-11",
 "hit":"YKRD",
 "ch":"YKRD"
@@ -167,7 +167,7 @@
 "input":"f2, 3",
 "range":"m,h",
 "DMG":"18, 14",
-"speed":"",,
+"speed":"",
 "block":"-1",
 "hit":"+8",
 "ch":"+8"
@@ -176,7 +176,7 @@
 "input":"f2, 3, b",
 "range":"m,h",
 "DMG":"18, 14",
-"speed":"",,
+"speed":"",
 "block":"-9",
 "hit":"0",
 "ch":"0"
@@ -185,7 +185,7 @@
 "input":"f2, 3, 4",
 "range":"m,h,m",
 "DMG":"18, 14, 30",
-"speed":"",,
+"speed":"",
 "block":"-18",
 "hit":"KD",
 "ch":"KD"
@@ -239,7 +239,7 @@
 "input":"df1, 2",
 "range":"m,m",
 "DMG":"15, 19",
-"speed":"",,
+"speed":"",
 "block":"-11",
 "hit":"+1",
 "ch":"KD"
@@ -248,7 +248,7 @@
 "input":"df1, 4",
 "range":"m,h",
 "DMG":"15, 21",
-"speed":"",,
+"speed":"",
 "block":"-6",
 "hit":"-1",
 "ch":"-1"
@@ -284,7 +284,7 @@
 "input":"df3, 4",
 "range":"m,h",
 "DMG":"18, 20",
-"speed":"",,
+"speed":"",
 "block":"-6",
 "hit":"+9",
 "ch":"KD"
@@ -293,7 +293,7 @@
 "input":"df3, d4",
 "range":"m,l",
 "DMG":"18, 18",
-"speed":"",,
+"speed":"",
 "block":"-17",
 "hit":"-2 CR",
 "ch":"-2 CR"
@@ -320,7 +320,7 @@
 "input":"df4, 1",
 "range":"m,m",
 "DMG":"16, 26",
-"speed":"",,
+"speed":"",
 "block":"-12",
 "hit":"+8",
 "ch":"KD"
@@ -347,7 +347,7 @@
 "input":"d1, 1",
 "range":"m,m",
 "DMG":"15, 18",
-"speed":"",,
+"speed":"",
 "block":"-13",
 "hit":"KD",
 "ch":"KD"
@@ -365,7 +365,7 @@
 "input":"d2, 4",
 "range":"m,m",
 "DMG":"19, 15",
-"speed":"",,
+"speed":"",
 "block":"-23",
 "hit":"-7",
 "ch":"-7 CR"
@@ -374,7 +374,7 @@
 "input":"d2, 4, 3",
 "range":"m,m,m",
 "DMG":"19, 15, 18",
-"speed":"",,
+"speed":"",
 "block":"-16",
 "hit":"KD",
 "ch":"KD"
@@ -392,7 +392,7 @@
 "input":"d4, 3",
 "range":"l,h",
 "DMG":"9, 12",
-"speed":"",,
+"speed":"",
 "block":"-6",
 "hit":"KD",
 "ch":"KD"
@@ -437,7 +437,7 @@
 "input":"db4, 2",
 "range":"l,m",
 "DMG":"16, 20",
-"speed":"",,
+"speed":"",
 "block":"-13",
 "hit":"CR KD",
 "ch":"CR KD"
@@ -455,7 +455,7 @@
 "input":"db1+2, 1+2",
 "range":"l,m",
 "DMG":"20, 24",
-"speed":"",,
+"speed":"",
 "block":"-14",
 "hit":"KD",
 "ch":"KD"
@@ -500,7 +500,7 @@
 "input":"b4, 4",
 "range":"m,m",
 "DMG":"21, 26",
-"speed":"",,
+"speed":"",
 "block":"-14",
 "hit":"KD",
 "ch":"KD"
@@ -581,7 +581,7 @@
 "input":"ff3, 1",
 "range":"m,m",
 "DMG":"28, 28",
-"speed":"",,
+"speed":"",
 "block":"-16",
 "hit":"KD",
 "ch":"KD"
@@ -626,7 +626,7 @@
 "input":"WR4",
 "range":"",
 "DMG":"25",
-"speed":"",,
+"speed":"",
 "block":"-",
 "hit":"KD",
 "ch":"KD"
@@ -635,7 +635,7 @@
 "input":"WR4, u",
 "range":"l",
 "DMG":"25",
-"speed":"",,
+"speed":"",
 "block":"-",
 "hit":"KD",
 "ch":"KD"
@@ -644,7 +644,7 @@
 "input":"being run 4, d",
 "range":"l",
 "DMG":"25",
-"speed":"",,
+"speed":"",
 "block":"-",
 "hit":"KD",
 "ch":"KD"
@@ -662,7 +662,7 @@
 "input":"WS1, 2",
 "range":"m,m",
 "DMG":"18, 20",
-"speed":"",,
+"speed":"",
 "block":"-14",
 "hit":"KD",
 "ch":"KD"
@@ -718,20 +718,20 @@
 {
 "input":"d1+2",
 "range":"",
-"DMG":"",,
-"speed":"",,
-"block":"",,
-"hit":"",,
-"ch":"",
+"DMG":"",
+"speed":"",
+"block":"",
+"hit":"",
+"ch":""
 },
 {
 "input":"d1+2, db, ub, u_uf",
 "range":"",
-"DMG":"",,
-"speed":"",,
-"block":"",,
-"hit":"",,
-"ch":"",
+"DMG":"",
+"speed":"",
+"block":"",
+"hit":"",
+"ch":""
 },
 {
 "input":"1",
@@ -791,7 +791,7 @@
 "input":"4, 3",
 "range":"",
 "DMG":"21, 18",
-"speed":"",,
+"speed":"",
 "block":"-16",
 "hit":"KD",
 "ch":"KD"
@@ -820,20 +820,20 @@
 {
 "input":"3+4 _ 3+4 _ w_k in various WS",
 "range":"",
-"DMG":"",,
-"speed":"",,
-"block":"",,
-"hit":"",,
-"ch":"",
+"DMG":"",
+"speed":"",
+"block":"",
+"hit":"",
+"ch":""
 },
 {
 "input":"3+4, db, nb, u_uf",
 "range":"",
-"DMG":"",,
-"speed":"",,
-"block":"",,
-"hit":"",,
-"ch":"",
+"DMG":"",
+"speed":"",
+"block":"",
+"hit":"",
+"ch":""
 },
 {
 "input":"1",
@@ -857,7 +857,7 @@
 "input":"2, 2",
 "range":"",
 "DMG":"15, 20",
-"speed":"",,
+"speed":"",
 "block":"-10",
 "hit":"+8 CR",
 "ch":"KD"
@@ -875,7 +875,7 @@
 "input":"3, 3",
 "range":"",
 "DMG":"18, 12",
-"speed":"",,
+"speed":"",
 "block":"-9",
 "hit":"+2",
 "ch":"+7"
@@ -884,7 +884,7 @@
 "input":"3, 3, 4",
 "range":"",
 "DMG":"18, 12, 18",
-"speed":"",,
+"speed":"",
 "block":"-25",
 "hit":"KD",
 "ch":"KD"
@@ -893,7 +893,7 @@
 "input":"3, 3, 4, d",
 "range":"",
 "DMG":"18, 12, 18",
-"speed":"",,
+"speed":"",
 "block":"-22?",
 "hit":"KD",
 "ch":"KD"
@@ -902,7 +902,7 @@
 "input":"3, f3",
 "range":"",
 "DMG":"18, 18",
-"speed":"",,
+"speed":"",
 "block":"-3",
 "hit":"KD",
 "ch":"KD"
@@ -1010,7 +1010,7 @@
 "input":"d3, 3",
 "range":"",
 "DMG":"12, 33",
-"speed":"",,
+"speed":"",
 "block":"0 Y",
 "hit":"KD",
 "ch":"KD"
@@ -1019,7 +1019,7 @@
 "input":"d3, 3, b",
 "range":"",
 "DMG":"12, 33",
-"speed":"",,
+"speed":"",
 "block":"-1 Y",
 "hit":"KD",
 "ch":"KD"
@@ -1028,7 +1028,7 @@
 "input":"d3, d3",
 "range":"",
 "DMG":"12, 18",
-"speed":"",,
+"speed":"",
 "block":"-8",
 "hit":"+8 CR",
 "ch":"+9 CR"
@@ -1046,7 +1046,7 @@
 "input":"d4, d",
 "range":"",
 "DMG":"20",
-"speed":"",,
+"speed":"",
 "block":"-30? ~ -24 f?",
 "hit":"KD",
 "ch":"KD"
@@ -1054,11 +1054,11 @@
 {
 "input":"d3+4",
 "range":"",
-"DMG":"",,
-"speed":"",,
-"block":"",,
-"hit":"",,
-"ch":"",
+"DMG":"",
+"speed":"",
+"block":"",
+"hit":"",
+"ch":""
 }
 ]},
 {"action":"Mantis",
@@ -1066,29 +1066,29 @@
 {
 "input":"d3+4 _ ub3+4",
 "range":"",
-"DMG":"",,
-"speed":"",,
-"block":"",,
-"hit":"",,
-"ch":"",
+"DMG":"",
+"speed":"",
+"block":"",
+"hit":"",
+"ch":""
 },
 {
 "input":"db_ub_u_uf",
 "range":"",
-"DMG":"",,
-"speed":"",,
-"block":"",,
-"hit":"",,
-"ch":"",
+"DMG":"",
+"speed":"",
+"block":"",
+"hit":"",
+"ch":""
 },
 {
 "input":"2+3",
 "range":"",
-"DMG":"",,
+"DMG":"",
 "speed":"BT",
-"block":"",,
-"hit":"",,
-"ch":"",
+"block":"",
+"hit":"",
+"ch":""
 },
 {
 "input":"1",
@@ -1112,7 +1112,7 @@
 "input":"2, 1",
 "range":"",
 "DMG":"22, 12",
-"speed":"",,
+"speed":"",
 "block":"-17",
 "hit":"+6",
 "ch":"+6"
@@ -1121,7 +1121,7 @@
 "input":"2, 1, 4",
 "range":"",
 "DMG":"22, 12, 30",
-"speed":"",,
+"speed":"",
 "block":"-13",
 "hit":"KD",
 "ch":"KD"
@@ -1139,7 +1139,7 @@
 "input":"3, 4",
 "range":"",
 "DMG":"22, 12",
-"speed":"",,
+"speed":"",
 "block":"-17 CR",
 "hit":"-1 CR",
 "ch":"-1 CR"
@@ -1157,7 +1157,7 @@
 "input":"3, 4, d4",
 "range":"",
 "DMG":"22, 12, 19",
-"speed":"",,
+"speed":"",
 "block":"-22",
 "hit":"+9",
 "ch":"+9"
@@ -1175,7 +1175,7 @@
 "input":"4, 3",
 "range":"",
 "DMG":"15, 24",
-"speed":"",,
+"speed":"",
 "block":"33?",
 "hit":"KD",
 "ch":"KD"
@@ -1220,7 +1220,7 @@
 "input":"d1, 4",
 "range":"",
 "DMG":"16, 27",
-"speed":"",,
+"speed":"",
 "block":"-16",
 "hit":"KD",
 "ch":"KD"
@@ -1238,7 +1238,7 @@
 "input":"d3, 1",
 "range":"",
 "DMG":"14, 19",
-"speed":"",,
+"speed":"",
 "block":"-8",
 "hit":"KD",
 "ch":"KD"
@@ -1276,16 +1276,6 @@
 "DMG":"30",
 "speed":"26 CR ~ 28 CR",
 "block":"-10 ~ -9 CR",
-"hit":"KD",
-"ch":"KD"
-}
-]
-}
-]}"KD"
-}
-]
-}
-]}ck":"-10 ~ -9 CR",
 "hit":"KD",
 "ch":"KD"
 }
